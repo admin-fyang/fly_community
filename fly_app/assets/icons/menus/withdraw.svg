@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="256" height="256"
+     viewBox="0 0 256 256"
+     fill="none"
+     role="img"
+     aria-label="提现">
+
+  <defs>
+    <linearGradient id="bg" x1="28" y1="22" x2="224" y2="232" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4EDD72"/>
+      <stop offset="1" stop-color="#11A95D"/>
+    </linearGradient>
+
+    <linearGradient id="wallet" x1="62" y1="113" x2="194" y2="205" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EAF9EF"/>
+    </linearGradient>
+
+    <linearGradient id="money" x1="92" y1="58" x2="176" y2="106" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F7FFF8"/>
+      <stop offset="1" stop-color="#DDF6E4"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-20%" y="-20%" width="150%" height="160%">
+      <feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#087B41" flood-opacity=".18"/>
+    </filter>
+  </defs>
+
+  <!-- 绿色 Tag -->
+  <rect x="12" y="12" width="232" height="232" rx="48" fill="url(#bg)"/>
+
+  <!-- 纸币 -->
+  <g filter="url(#shadow)">
+    <rect x="78" y="62" width="108" height="70" rx="12" fill="url(#money)"/>
+    <path d="M91 80h82" stroke="#63C87E" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="132" cy="97" r="18" fill="#72D98B"/>
+    <path d="M124 91h16M132 85v24M123 101h18" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- 钱包 -->
+  <g filter="url(#shadow)">
+    <rect x="50" y="104" width="150" height="104" rx="22" fill="url(#wallet)"/>
+    <rect x="49" y="146" width="46" height="44" rx="16" fill="#F1FBF4"/>
+    <circle cx="73" cy="168" r="8" fill="#18B765"/>
+  </g>
+
+  <!-- 提现箭头 -->
+  <g fill="none" stroke="#18B765" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M139 168h58"/>
+    <path d="M181 151l18 17-18 17"/>
+  </g>
+
+</svg>

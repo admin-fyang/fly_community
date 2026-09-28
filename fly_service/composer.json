@@ -1,0 +1,60 @@
+{
+  "name": "flyim/community-service",
+  "type": "project",
+  "keywords": [
+    "flyim",
+    "instant messaging",
+    "webman"
+  ],
+  "license": "MIT",
+  "description": "FlyIM 社区版即时通讯服务端",
+  "authors": [
+    {
+      "name": "FlyIM 项目及贡献者",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^8.4",
+    "ext-json": "*",
+    "ext-intl": "*",
+    "ext-mbstring": "*",
+    "ext-openssl": "*",
+    "ext-sodium": "*",
+    "firebase/php-jwt": "^6.11",
+    "guzzlehttp/guzzle": "^7.9",
+    "giggsey/libphonenumber-for-php": "^8.13 || ^9.0",
+    "illuminate/database": "^12.0",
+    "workerman/webman-framework": "^2.1",
+    "monolog/monolog": "^2.0",
+    "predis/predis": "^2.3 || ^3.0",
+    "vlucas/phpdotenv": "^5.6",
+    "aws/aws-sdk-php": "^3.337",
+    "symfony/var-dumper": "^7.3",
+    "webman/database": "^2.1",
+    "illuminate/pagination": "^12.41",
+    "illuminate/events": "^12.42"
+  },
+  "suggest": {
+    "ext-event": "For better performance. "
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "./app",
+      "app\\View\\Components\\": "./app/view/components"
+    }
+  },
+  "scripts": {
+    "post-package-install": [
+      "support\\Plugin::install"
+    ],
+    "post-package-update": [
+      "support\\Plugin::install"
+    ],
+    "pre-package-uninstall": [
+      "support\\Plugin::uninstall"
+    ]
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}

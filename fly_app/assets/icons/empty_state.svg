@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="160"
+     height="160"
+     viewBox="0 0 64 64"
+     fill="none"
+     role="img"
+     aria-label="空数据">
+
+  <g fill="none"
+     stroke="currentColor"
+     stroke-width="2.6"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <!-- 空收件箱主体 -->
+    <path d="M14 27
+             20.5 17.5
+             H43.5
+             L50 27
+             V43
+             A6 6 0 0 1 44 49
+             H20
+             A6 6 0 0 1 14 43
+             Z"/>
+
+    <!-- 中央空槽 -->
+    <path d="M14 27
+             H24
+             C24.6 31.7 27.6 34 32 34
+             C36.4 34 39.4 31.7 40 27
+             H50"/>
+
+  </g>
+
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 64 64" fill="none" role="img" aria-label="联系人">
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="#14B8A6"/>
+
+  <g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="32" cy="25" r="6.5" stroke-width="2.7"/>
+    <path d="M19.5 45c1.8-6.3 6.1-9.5 12.5-9.5S42.7 38.7 44.5 45" stroke-width="2.7"/>
+    <path d="M46 20v10M41 25h10" stroke-width="2.4"/>
+  </g>
+
+</svg>

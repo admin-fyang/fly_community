@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="1310"
+     viewBox="0 0 1200 1310"
+     fill="none"
+     role="img"
+     aria-label="红包">
+
+  <defs>
+    <!-- 红包主体：低塑料感、偏纸张质感 -->
+    <linearGradient id="bodyRed" x1="195" y1="250" x2="960" y2="1160" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F44543"/>
+      <stop offset="0.48" stop-color="#E82F35"/>
+      <stop offset="1" stop-color="#CC202A"/>
+    </linearGradient>
+
+    <!-- 上盖红色 -->
+    <linearGradient id="flapRed" x1="210" y1="105" x2="930" y2="470" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF625E"/>
+      <stop offset="0.52" stop-color="#F24645"/>
+      <stop offset="1" stop-color="#DE3034"/>
+    </linearGradient>
+
+    <!-- 金边 -->
+    <linearGradient id="goldEdge" x1="180" y1="290" x2="1000" y2="505" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFE26B"/>
+      <stop offset="0.45" stop-color="#F6C84A"/>
+      <stop offset="1" stop-color="#E7A92B"/>
+    </linearGradient>
+
+    <!-- 很轻的纸面光感 -->
+    <linearGradient id="paperLight" x1="240" y1="170" x2="870" y2="930" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.09"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.015"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.025"/>
+    </linearGradient>
+
+    <!-- 翻盖下方阴影 -->
+    <filter id="flapShadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="13" stdDeviation="16"
+                    flood-color="#9C1E24"
+                    flood-opacity="0.22"/>
+    </filter>
+
+    <!-- 整体极轻阴影 -->
+    <filter id="bodyShadow" x="-20%" y="-20%" width="145%" height="155%">
+      <feDropShadow dx="0" dy="10" stdDeviation="16"
+                    flood-color="#72161B"
+                    flood-opacity="0.16"/>
+    </filter>
+
+    <clipPath id="bodyClip">
+      <rect x="170" y="95" width="835" height="1090" rx="95"/>
+    </clipPath>
+  </defs>
+
+  <!-- 主体 -->
+  <g filter="url(#bodyShadow)">
+    <rect x="170"
+          y="95"
+          width="835"
+          height="1090"
+          rx="95"
+          fill="url(#bodyRed)"/>
+  </g>
+
+  <!-- 轻微纸面层次 -->
+  <rect x="170"
+        y="95"
+        width="835"
+        height="1090"
+        rx="95"
+        fill="url(#paperLight)"/>
+
+  <!-- 顶部翻盖 -->
+  <g filter="url(#flapShadow)">
+    <path d="
+      M170 190
+      C170 137 214 95 267 95
+      H908
+      C961 95 1005 137 1005 190
+      V267
+      C972 324 913 374 844 414
+      C772 456 690 483 604 492
+      C514 501 425 487 348 459
+      C270 431 209 388 170 335
+      Z"
+      fill="url(#flapRed)"/>
+  </g>
+
+  <!-- 金色翻盖边线 -->
+  <path d="
+    M170 270
+    C205 331 272 383 351 421
+    C430 460 516 482 604 486
+    C696 490 784 470 861 432
+    C927 400 973 363 1005 318"
+    stroke="url(#goldEdge)"
+    stroke-width="18"
+    stroke-linecap="round"
+    fill="none"/>
+
+  <!-- 金边上缘轻高光 -->
+  <path d="
+    M170 267
+    C205 328 272 380 351 418
+    C430 457 516 479 604 483
+    C696 487 784 467 861 429
+    C927 397 973 360 1005 315"
+    stroke="#FFF0A2"
+    stroke-opacity="0.48"
+    stroke-width="3.5"
+    stroke-linecap="round"
+    fill="none"/>
+
+  <!-- 翻盖顶部非常轻的哑光提亮 -->
+  <path d="
+    M250 137
+    C430 108 732 110 914 141"
+    stroke="#FFFFFF"
+    stroke-opacity="0.055"
+    stroke-width="20"
+    stroke-linecap="round"/>
+
+</svg>

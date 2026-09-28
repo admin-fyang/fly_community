@@ -1,0 +1,30 @@
+services:
+  centrifugo:
+    #networks:
+    #  - app-network
+    image: centrifugo/centrifugo:latest
+    container_name: centrifugo
+    restart: always
+    ports:
+      # 宿主机端口:容器端口
+      - "8022:8000"  # WebSocket & HTTP API 端口
+      - "9022:9000"  # Admin Web UI 端口
+    volumes:
+      # 将本地的 config.json 挂载到容器内
+      - ./config.json:/centrifugo/config.json
+      - /usr/share/zoneinfo:/usr/share/zoneinfo:ro
+
+    environment:
+      - TZ=Asia/Shanghai
+
+    command: centrifugo -c config.json
+
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+networks:
+  default:
+    ipam:
+      config:
+        - subnet: 172.28.0.0/24
+          gateway: 172.28.0.1

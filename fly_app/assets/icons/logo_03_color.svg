@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="512"
+    height="512"
+    viewBox="0 0 512 512"
+    fill="none"
+    role="img"
+    aria-label="Fly">
+  <rect x="16" y="16" width="480" height="480" rx="96" fill="#24A1DE"/>
+  <g transform="translate(19.6 130.8) scale(3.15) translate(-42 -8)"
+      fill="none"
+      stroke="#FFFFFF"
+      stroke-linecap="round"
+      stroke-linejoin="round">
+
+    <!-- speed dots -->
+    <circle cx="53" cy="47" r="3.4" fill="#FFFFFF" stroke="none"/>
+    <circle cx="62.5" cy="37" r="2.7" fill="#FFFFFF" stroke="none"/>
+
+    <!-- speed lines -->
+    <path d="M65 46 H88" stroke-width="6.2"/>
+    <path d="M62 56 H84" stroke-width="6.2"/>
+
+    <!-- f -->
+    <path d="M81 74
+             C84 63 87 53 90 44
+             C93 35 96 27 99 21
+             C102 16 107 15 113 15
+             H125"
+        stroke-width="7.5"/>
+    <path d="M77 38 H111" stroke-width="7.3"/>
+
+    <!-- l -->
+    <path d="M140 15 L123 66" stroke-width="8"/>
+
+    <!-- y -->
+    <path d="M154 33
+             C149 47 145 58 148 64
+             C151 70 159 71 165 66
+             C172 60 175 50 178 40
+             L181 31"
+        stroke-width="8"/>
+    <path d="M178 40
+             C175 53 171 65 165 72
+             C160 78 154 81 146 81"
+        stroke-width="8"/>
+  </g>
+</svg>

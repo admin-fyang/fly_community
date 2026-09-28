@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="加油气球">
+  <ellipse cx="64" cy="48" rx="34" ry="40" fill="#5b8cff"/>
+  <path fill="#4774db" d="m56 86 8-10 8 10z"/>
+  <path d="M64 86c-8 14 9 19 0 31" fill="none" stroke="#77808f" stroke-width="4" stroke-linecap="round"/>
+</svg>

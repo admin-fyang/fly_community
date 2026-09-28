@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 64 64" fill="none" role="img" aria-label="消息通知">
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="#2AABEE"/>
+
+  <g fill="none" stroke="#FFFFFF" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18.5 21h27a5.5 5.5 0 0 1 5.5 5.5v10a5.5 5.5 0 0 1-5.5 5.5H31l-8 5v-5h-4.5a5.5 5.5 0 0 1-5.5-5.5v-10a5.5 5.5 0 0 1 5.5-5.5Z"/>
+    <path d="M23 29h13M23 35h9"/>
+  </g>
+  <circle cx="46.5" cy="19" r="5.2" fill="#FF4D4F" stroke="#FFFFFF" stroke-width="2"/>
+
+</svg>

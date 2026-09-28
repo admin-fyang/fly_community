@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 64 64" fill="none" role="img" aria-label="通知和声音">
+  <defs>
+    <linearGradient id="bg" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3395FF"/>
+      <stop offset="1" stop-color="#1677E8"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="64" height="64" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="url(#bg)" filter="url(#shadow)"/>
+
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 39h16l-2.2-3.8V27a5.8 5.8 0 0 0-11.6 0v8.2L24 39Z" stroke-width="3"/>
+    <path d="M29.3 42.5c.6 1.8 1.5 2.8 2.7 2.8s2.1-1 2.7-2.8" stroke-width="2.8"/>
+    <path d="M18.5 24.5c-2.3 2.3-3.5 5-3.5 8s1.2 5.7 3.5 8M45.5 24.5c2.3 2.3 3.5 5 3.5 8s-1.2 5.7-3.5 8" stroke-width="2.8"/>
+  </g>
+</svg>

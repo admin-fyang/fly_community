@@ -1,0 +1,71 @@
+{
+    "log": {
+      "level": "debug"
+    },
+    "client": {
+        "token": {
+            "hmac_secret_key": "bbe7d157-a253-4094-9759-06a8236543f9"
+        },
+        "allowed_origins": ["*"],
+        "channel_limit": 300
+    },
+    "http_api": {
+        "key": "d7627bb6-2292-4911-82e1-615c0ed3eebb"
+    },
+    "admin": {
+        "enabled": true,
+        "password": "wW123456789:",
+        "handler_prefix": "/admin",
+        "secret": "4e9eafcf-0120-4ddd-b668-8dc40072c78e"
+    },
+    "prometheus": {
+        "enabled": true,
+        "recovered_publications_histogram": true
+    },
+    "opentelemetry": {
+        "enabled": true,
+        "api": true
+    },
+    "engine": {
+    "type": "redis",
+    "redis": {
+    "address": "redis://default:gdsgkjhdshuh%40kj56456@host.docker.internal:6379/0"
+    }
+  },
+    "channel": {
+        "namespaces": [
+            {
+                "name": "private-user",
+                "presence": false,
+                "join_leave": false,
+                "history_size": 1000,
+                "history_ttl": "2h",
+                "history_meta_ttl":"3h",
+                "force_positioning": true,
+                "force_recovery": true,
+                "allow_subscribe_for_client": false,
+                "allow_history_for_subscriber": true,
+                "channel_regex": "^\\d+$"
+            },
+            {
+                "name": "group",
+                "presence": false,
+                "join_leave": false,
+                "history_size": 1000,
+                "history_ttl": "2h",
+                "history_meta_ttl":"3h",
+                "force_positioning": true,
+                "force_recovery": true,
+                "allow_subscribe_for_client": false,
+                "allow_history_for_subscriber": true,
+                "channel_regex": "^\\d+$"
+            },
+            {
+                "name": "presence",
+                "presence": true,
+                "join_leave": true,
+                "force_push_join_leave": false
+            }
+        ]
+    }
+}

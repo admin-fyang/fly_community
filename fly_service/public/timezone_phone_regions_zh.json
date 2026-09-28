@@ -1,0 +1,2643 @@
+[
+  {
+    "region_code": "AD",
+    "region_cn": "安道尔",
+    "region_en": "català",
+    "flag_emoji": "🇦🇩",
+    "svg_file": "flags/AD.svg",
+    "timezones": [
+      "Europe/Andorra"
+    ]
+  },
+  {
+    "region_code": "AE",
+    "region_cn": "阿拉伯联合酋长国",
+    "region_en": "العربية",
+    "flag_emoji": "🇦🇪",
+    "svg_file": "flags/AE.svg",
+    "timezones": [
+      "Asia/Dubai"
+    ]
+  },
+  {
+    "region_code": "AF",
+    "region_cn": "阿富汗",
+    "region_en": "فارسی",
+    "flag_emoji": "🇦🇫",
+    "svg_file": "flags/AF.svg",
+    "timezones": [
+      "Asia/Kabul"
+    ]
+  },
+  {
+    "region_code": "AG",
+    "region_cn": "安提瓜和巴布达",
+    "region_en": "English",
+    "flag_emoji": "🇦🇬",
+    "svg_file": "flags/AG.svg",
+    "timezones": [
+      "America/Antigua"
+    ]
+  },
+  {
+    "region_code": "AI",
+    "region_cn": "安圭拉",
+    "region_en": "English",
+    "flag_emoji": "🇦🇮",
+    "svg_file": "flags/AI.svg",
+    "timezones": [
+      "America/Anguilla"
+    ]
+  },
+  {
+    "region_code": "AL",
+    "region_cn": "阿尔巴尼亚",
+    "region_en": "shqip",
+    "flag_emoji": "🇦🇱",
+    "svg_file": "flags/AL.svg",
+    "timezones": [
+      "Europe/Tirane"
+    ]
+  },
+  {
+    "region_code": "AM",
+    "region_cn": "亚美尼亚",
+    "region_en": "հայերեն",
+    "flag_emoji": "🇦🇲",
+    "svg_file": "flags/AM.svg",
+    "timezones": [
+      "Asia/Yerevan"
+    ]
+  },
+  {
+    "region_code": "AO",
+    "region_cn": "安哥拉",
+    "region_en": "português",
+    "flag_emoji": "🇦🇴",
+    "svg_file": "flags/AO.svg",
+    "timezones": [
+      "Africa/Luanda"
+    ]
+  },
+  {
+    "region_code": "AQ",
+    "region_cn": "南极洲",
+    "region_en": "English",
+    "flag_emoji": "🇦🇶",
+    "svg_file": "flags/AQ.svg",
+    "timezones": [
+      "Antarctica/Casey",
+      "Antarctica/Davis",
+      "Antarctica/DumontDUrville",
+      "Antarctica/Mawson",
+      "Antarctica/McMurdo",
+      "Antarctica/Palmer",
+      "Antarctica/Rothera",
+      "Antarctica/Syowa",
+      "Antarctica/Troll",
+      "Antarctica/Vostok"
+    ]
+  },
+  {
+    "region_code": "AR",
+    "region_cn": "阿根廷",
+    "region_en": "español",
+    "flag_emoji": "🇦🇷",
+    "svg_file": "flags/AR.svg",
+    "timezones": [
+      "America/Argentina/Buenos_Aires",
+      "America/Argentina/Catamarca",
+      "America/Argentina/Cordoba",
+      "America/Argentina/Jujuy",
+      "America/Argentina/La_Rioja",
+      "America/Argentina/Mendoza",
+      "America/Argentina/Rio_Gallegos",
+      "America/Argentina/Salta",
+      "America/Argentina/San_Juan",
+      "America/Argentina/San_Luis",
+      "America/Argentina/Tucuman",
+      "America/Argentina/Ushuaia"
+    ]
+  },
+  {
+    "region_code": "AS",
+    "region_cn": "美属萨摩亚",
+    "region_en": "sm",
+    "flag_emoji": "🇦🇸",
+    "svg_file": "flags/AS.svg",
+    "timezones": [
+      "Pacific/Pago_Pago"
+    ]
+  },
+  {
+    "region_code": "AT",
+    "region_cn": "奥地利",
+    "region_en": "Deutsch",
+    "flag_emoji": "🇦🇹",
+    "svg_file": "flags/AT.svg",
+    "timezones": [
+      "Europe/Vienna"
+    ]
+  },
+  {
+    "region_code": "AU",
+    "region_cn": "澳大利亚",
+    "region_en": "English",
+    "flag_emoji": "🇦🇺",
+    "svg_file": "flags/AU.svg",
+    "timezones": [
+      "Antarctica/Macquarie",
+      "Australia/Adelaide",
+      "Australia/Brisbane",
+      "Australia/Broken_Hill",
+      "Australia/Darwin",
+      "Australia/Eucla",
+      "Australia/Hobart",
+      "Australia/Lindeman",
+      "Australia/Lord_Howe",
+      "Australia/Melbourne",
+      "Australia/Perth",
+      "Australia/Sydney"
+    ]
+  },
+  {
+    "region_code": "AW",
+    "region_cn": "阿鲁巴",
+    "region_en": "Nederlands",
+    "flag_emoji": "🇦🇼",
+    "svg_file": "flags/AW.svg",
+    "timezones": [
+      "America/Aruba"
+    ]
+  },
+  {
+    "region_code": "AX",
+    "region_cn": "奥兰群岛",
+    "region_en": "svenska",
+    "flag_emoji": "🇦🇽",
+    "svg_file": "flags/AX.svg",
+    "timezones": [
+      "Europe/Mariehamn"
+    ]
+  },
+  {
+    "region_code": "AZ",
+    "region_cn": "阿塞拜疆",
+    "region_en": "azərbaycan",
+    "flag_emoji": "🇦🇿",
+    "svg_file": "flags/AZ.svg",
+    "timezones": [
+      "Asia/Baku"
+    ]
+  },
+  {
+    "region_code": "BA",
+    "region_cn": "波斯尼亚和黑塞哥维那",
+    "region_en": "bosanski",
+    "flag_emoji": "🇧🇦",
+    "svg_file": "flags/BA.svg",
+    "timezones": [
+      "Europe/Sarajevo"
+    ]
+  },
+  {
+    "region_code": "BB",
+    "region_cn": "巴巴多斯",
+    "region_en": "English",
+    "flag_emoji": "🇧🇧",
+    "svg_file": "flags/BB.svg",
+    "timezones": [
+      "America/Barbados"
+    ]
+  },
+  {
+    "region_code": "BD",
+    "region_cn": "孟加拉国",
+    "region_en": "বাংলা",
+    "flag_emoji": "🇧🇩",
+    "svg_file": "flags/BD.svg",
+    "timezones": [
+      "Asia/Dhaka"
+    ]
+  },
+  {
+    "region_code": "BE",
+    "region_cn": "比利时",
+    "region_en": "Nederlands",
+    "flag_emoji": "🇧🇪",
+    "svg_file": "flags/BE.svg",
+    "timezones": [
+      "Europe/Brussels"
+    ]
+  },
+  {
+    "region_code": "BF",
+    "region_cn": "布基纳法索",
+    "region_en": "français",
+    "flag_emoji": "🇧🇫",
+    "svg_file": "flags/BF.svg",
+    "timezones": [
+      "Africa/Ouagadougou"
+    ]
+  },
+  {
+    "region_code": "BG",
+    "region_cn": "保加利亚",
+    "region_en": "български",
+    "flag_emoji": "🇧🇬",
+    "svg_file": "flags/BG.svg",
+    "timezones": [
+      "Europe/Sofia"
+    ]
+  },
+  {
+    "region_code": "BH",
+    "region_cn": "巴林",
+    "region_en": "العربية",
+    "flag_emoji": "🇧🇭",
+    "svg_file": "flags/BH.svg",
+    "timezones": [
+      "Asia/Bahrain"
+    ]
+  },
+  {
+    "region_code": "BI",
+    "region_cn": "布隆迪",
+    "region_en": "Ikirundi",
+    "flag_emoji": "🇧🇮",
+    "svg_file": "flags/BI.svg",
+    "timezones": [
+      "Africa/Bujumbura"
+    ]
+  },
+  {
+    "region_code": "BJ",
+    "region_cn": "贝宁",
+    "region_en": "français",
+    "flag_emoji": "🇧🇯",
+    "svg_file": "flags/BJ.svg",
+    "timezones": [
+      "Africa/Porto-Novo"
+    ]
+  },
+  {
+    "region_code": "BL",
+    "region_cn": "圣巴泰勒米",
+    "region_en": "français",
+    "flag_emoji": "🇧🇱",
+    "svg_file": "flags/BL.svg",
+    "timezones": [
+      "America/St_Barthelemy"
+    ]
+  },
+  {
+    "region_code": "BM",
+    "region_cn": "百慕大",
+    "region_en": "English",
+    "flag_emoji": "🇧🇲",
+    "svg_file": "flags/BM.svg",
+    "timezones": [
+      "Atlantic/Bermuda"
+    ]
+  },
+  {
+    "region_code": "BN",
+    "region_cn": "文莱",
+    "region_en": "Bahasa Melayu",
+    "flag_emoji": "🇧🇳",
+    "svg_file": "flags/BN.svg",
+    "timezones": [
+      "Asia/Brunei"
+    ]
+  },
+  {
+    "region_code": "BO",
+    "region_cn": "玻利维亚",
+    "region_en": "español",
+    "flag_emoji": "🇧🇴",
+    "svg_file": "flags/BO.svg",
+    "timezones": [
+      "America/La_Paz"
+    ]
+  },
+  {
+    "region_code": "BQ",
+    "region_cn": "荷属加勒比区",
+    "region_en": "Nederlands",
+    "flag_emoji": "🇧🇶",
+    "svg_file": "flags/BQ.svg",
+    "timezones": [
+      "America/Kralendijk"
+    ]
+  },
+  {
+    "region_code": "BR",
+    "region_cn": "巴西",
+    "region_en": "português",
+    "flag_emoji": "🇧🇷",
+    "svg_file": "flags/BR.svg",
+    "timezones": [
+      "America/Araguaina",
+      "America/Bahia",
+      "America/Belem",
+      "America/Boa_Vista",
+      "America/Campo_Grande",
+      "America/Cuiaba",
+      "America/Eirunepe",
+      "America/Fortaleza",
+      "America/Maceio",
+      "America/Manaus",
+      "America/Noronha",
+      "America/Porto_Velho",
+      "America/Recife",
+      "America/Rio_Branco",
+      "America/Santarem",
+      "America/Sao_Paulo"
+    ]
+  },
+  {
+    "region_code": "BS",
+    "region_cn": "巴哈马",
+    "region_en": "English",
+    "flag_emoji": "🇧🇸",
+    "svg_file": "flags/BS.svg",
+    "timezones": [
+      "America/Nassau"
+    ]
+  },
+  {
+    "region_code": "BT",
+    "region_cn": "不丹",
+    "region_en": "རྫོང་ཁ",
+    "flag_emoji": "🇧🇹",
+    "svg_file": "flags/BT.svg",
+    "timezones": [
+      "Asia/Thimphu"
+    ]
+  },
+  {
+    "region_code": "BW",
+    "region_cn": "博茨瓦纳",
+    "region_en": "English",
+    "flag_emoji": "🇧🇼",
+    "svg_file": "flags/BW.svg",
+    "timezones": [
+      "Africa/Gaborone"
+    ]
+  },
+  {
+    "region_code": "BY",
+    "region_cn": "白俄罗斯",
+    "region_en": "беларуская",
+    "flag_emoji": "🇧🇾",
+    "svg_file": "flags/BY.svg",
+    "timezones": [
+      "Europe/Minsk"
+    ]
+  },
+  {
+    "region_code": "BZ",
+    "region_cn": "伯利兹",
+    "region_en": "English",
+    "flag_emoji": "🇧🇿",
+    "svg_file": "flags/BZ.svg",
+    "timezones": [
+      "America/Belize"
+    ]
+  },
+  {
+    "region_code": "CA",
+    "region_cn": "加拿大",
+    "region_en": "English",
+    "flag_emoji": "🇨🇦",
+    "svg_file": "flags/CA.svg",
+    "timezones": [
+      "America/Atikokan",
+      "America/Blanc-Sablon",
+      "America/Cambridge_Bay",
+      "America/Creston",
+      "America/Dawson",
+      "America/Dawson_Creek",
+      "America/Edmonton",
+      "America/Fort_Nelson",
+      "America/Glace_Bay",
+      "America/Goose_Bay",
+      "America/Halifax",
+      "America/Inuvik",
+      "America/Iqaluit",
+      "America/Moncton",
+      "America/Rankin_Inlet",
+      "America/Regina",
+      "America/Resolute",
+      "America/St_Johns",
+      "America/Swift_Current",
+      "America/Toronto",
+      "America/Vancouver",
+      "America/Whitehorse",
+      "America/Winnipeg"
+    ]
+  },
+  {
+    "region_code": "CC",
+    "region_cn": "科科斯（基林）群岛",
+    "region_en": "English",
+    "flag_emoji": "🇨🇨",
+    "svg_file": "flags/CC.svg",
+    "timezones": [
+      "Indian/Cocos"
+    ]
+  },
+  {
+    "region_code": "CD",
+    "region_cn": "刚果（金）",
+    "region_en": "français",
+    "flag_emoji": "🇨🇩",
+    "svg_file": "flags/CD.svg",
+    "timezones": [
+      "Africa/Kinshasa",
+      "Africa/Lubumbashi"
+    ]
+  },
+  {
+    "region_code": "CF",
+    "region_cn": "中非共和国",
+    "region_en": "Sängö",
+    "flag_emoji": "🇨🇫",
+    "svg_file": "flags/CF.svg",
+    "timezones": [
+      "Africa/Bangui"
+    ]
+  },
+  {
+    "region_code": "CG",
+    "region_cn": "刚果（布）",
+    "region_en": "français",
+    "flag_emoji": "🇨🇬",
+    "svg_file": "flags/CG.svg",
+    "timezones": [
+      "Africa/Brazzaville"
+    ]
+  },
+  {
+    "region_code": "CH",
+    "region_cn": "瑞士",
+    "region_en": "Deutsch",
+    "flag_emoji": "🇨🇭",
+    "svg_file": "flags/CH.svg",
+    "timezones": [
+      "Europe/Zurich"
+    ]
+  },
+  {
+    "region_code": "CI",
+    "region_cn": "科特迪瓦",
+    "region_en": "français",
+    "flag_emoji": "🇨🇮",
+    "svg_file": "flags/CI.svg",
+    "timezones": [
+      "Africa/Abidjan"
+    ]
+  },
+  {
+    "region_code": "CK",
+    "region_cn": "库克群岛",
+    "region_en": "English",
+    "flag_emoji": "🇨🇰",
+    "svg_file": "flags/CK.svg",
+    "timezones": [
+      "Pacific/Rarotonga"
+    ]
+  },
+  {
+    "region_code": "CL",
+    "region_cn": "智利",
+    "region_en": "español",
+    "flag_emoji": "🇨🇱",
+    "svg_file": "flags/CL.svg",
+    "timezones": [
+      "America/Coyhaique",
+      "America/Punta_Arenas",
+      "America/Santiago",
+      "Pacific/Easter"
+    ]
+  },
+  {
+    "region_code": "CM",
+    "region_cn": "喀麦隆",
+    "region_en": "français",
+    "flag_emoji": "🇨🇲",
+    "svg_file": "flags/CM.svg",
+    "timezones": [
+      "Africa/Douala"
+    ]
+  },
+  {
+    "region_code": "CN",
+    "region_cn": "中国",
+    "region_en": "中文",
+    "flag_emoji": "🇨🇳",
+    "svg_file": "flags/CN.svg",
+    "timezones": [
+      "Asia/Shanghai",
+      "Asia/Urumqi"
+    ]
+  },
+  {
+    "region_code": "CO",
+    "region_cn": "哥伦比亚",
+    "region_en": "español",
+    "flag_emoji": "🇨🇴",
+    "svg_file": "flags/CO.svg",
+    "timezones": [
+      "America/Bogota"
+    ]
+  },
+  {
+    "region_code": "CR",
+    "region_cn": "哥斯达黎加",
+    "region_en": "español",
+    "flag_emoji": "🇨🇷",
+    "svg_file": "flags/CR.svg",
+    "timezones": [
+      "America/Costa_Rica"
+    ]
+  },
+  {
+    "region_code": "CU",
+    "region_cn": "古巴",
+    "region_en": "español",
+    "flag_emoji": "🇨🇺",
+    "svg_file": "flags/CU.svg",
+    "timezones": [
+      "America/Havana"
+    ]
+  },
+  {
+    "region_code": "CV",
+    "region_cn": "佛得角",
+    "region_en": "português",
+    "flag_emoji": "🇨🇻",
+    "svg_file": "flags/CV.svg",
+    "timezones": [
+      "Atlantic/Cape_Verde"
+    ]
+  },
+  {
+    "region_code": "CW",
+    "region_cn": "库拉索",
+    "region_en": "Papiamentu",
+    "flag_emoji": "🇨🇼",
+    "svg_file": "flags/CW.svg",
+    "timezones": [
+      "America/Curacao"
+    ]
+  },
+  {
+    "region_code": "CX",
+    "region_cn": "圣诞岛",
+    "region_en": "English",
+    "flag_emoji": "🇨🇽",
+    "svg_file": "flags/CX.svg",
+    "timezones": [
+      "Indian/Christmas"
+    ]
+  },
+  {
+    "region_code": "CY",
+    "region_cn": "塞浦路斯",
+    "region_en": "Ελληνικά",
+    "flag_emoji": "🇨🇾",
+    "svg_file": "flags/CY.svg",
+    "timezones": [
+      "Asia/Famagusta",
+      "Asia/Nicosia"
+    ]
+  },
+  {
+    "region_code": "CZ",
+    "region_cn": "捷克",
+    "region_en": "čeština",
+    "flag_emoji": "🇨🇿",
+    "svg_file": "flags/CZ.svg",
+    "timezones": [
+      "Europe/Prague"
+    ]
+  },
+  {
+    "region_code": "DE",
+    "region_cn": "德国",
+    "region_en": "Deutsch",
+    "flag_emoji": "🇩🇪",
+    "svg_file": "flags/DE.svg",
+    "timezones": [
+      "Europe/Berlin",
+      "Europe/Busingen"
+    ]
+  },
+  {
+    "region_code": "DJ",
+    "region_cn": "吉布提",
+    "region_en": "français",
+    "flag_emoji": "🇩🇯",
+    "svg_file": "flags/DJ.svg",
+    "timezones": [
+      "Africa/Djibouti"
+    ]
+  },
+  {
+    "region_code": "DK",
+    "region_cn": "丹麦",
+    "region_en": "dansk",
+    "flag_emoji": "🇩🇰",
+    "svg_file": "flags/DK.svg",
+    "timezones": [
+      "Europe/Copenhagen"
+    ]
+  },
+  {
+    "region_code": "DM",
+    "region_cn": "多米尼克",
+    "region_en": "English",
+    "flag_emoji": "🇩🇲",
+    "svg_file": "flags/DM.svg",
+    "timezones": [
+      "America/Dominica"
+    ]
+  },
+  {
+    "region_code": "DO",
+    "region_cn": "多米尼加共和国",
+    "region_en": "español",
+    "flag_emoji": "🇩🇴",
+    "svg_file": "flags/DO.svg",
+    "timezones": [
+      "America/Santo_Domingo"
+    ]
+  },
+  {
+    "region_code": "DZ",
+    "region_cn": "阿尔及利亚",
+    "region_en": "العربية",
+    "flag_emoji": "🇩🇿",
+    "svg_file": "flags/DZ.svg",
+    "timezones": [
+      "Africa/Algiers"
+    ]
+  },
+  {
+    "region_code": "EC",
+    "region_cn": "厄瓜多尔",
+    "region_en": "español",
+    "flag_emoji": "🇪🇨",
+    "svg_file": "flags/EC.svg",
+    "timezones": [
+      "America/Guayaquil",
+      "Pacific/Galapagos"
+    ]
+  },
+  {
+    "region_code": "EE",
+    "region_cn": "爱沙尼亚",
+    "region_en": "eesti",
+    "flag_emoji": "🇪🇪",
+    "svg_file": "flags/EE.svg",
+    "timezones": [
+      "Europe/Tallinn"
+    ]
+  },
+  {
+    "region_code": "EG",
+    "region_cn": "埃及",
+    "region_en": "العربية",
+    "flag_emoji": "🇪🇬",
+    "svg_file": "flags/EG.svg",
+    "timezones": [
+      "Africa/Cairo"
+    ]
+  },
+  {
+    "region_code": "EH",
+    "region_cn": "西撒哈拉",
+    "region_en": "العربية",
+    "flag_emoji": "🇪🇭",
+    "svg_file": "flags/EH.svg",
+    "timezones": [
+      "Africa/El_Aaiun"
+    ]
+  },
+  {
+    "region_code": "ER",
+    "region_cn": "厄立特里亚",
+    "region_en": "ትግርኛ",
+    "flag_emoji": "🇪🇷",
+    "svg_file": "flags/ER.svg",
+    "timezones": [
+      "Africa/Asmara"
+    ]
+  },
+  {
+    "region_code": "ES",
+    "region_cn": "西班牙",
+    "region_en": "español",
+    "flag_emoji": "🇪🇸",
+    "svg_file": "flags/ES.svg",
+    "timezones": [
+      "Africa/Ceuta",
+      "Atlantic/Canary",
+      "Europe/Madrid"
+    ]
+  },
+  {
+    "region_code": "ET",
+    "region_cn": "埃塞俄比亚",
+    "region_en": "አማርኛ",
+    "flag_emoji": "🇪🇹",
+    "svg_file": "flags/ET.svg",
+    "timezones": [
+      "Africa/Addis_Ababa"
+    ]
+  },
+  {
+    "region_code": "FI",
+    "region_cn": "芬兰",
+    "region_en": "suomi",
+    "flag_emoji": "🇫🇮",
+    "svg_file": "flags/FI.svg",
+    "timezones": [
+      "Europe/Helsinki"
+    ]
+  },
+  {
+    "region_code": "FJ",
+    "region_cn": "斐济",
+    "region_en": "English",
+    "flag_emoji": "🇫🇯",
+    "svg_file": "flags/FJ.svg",
+    "timezones": [
+      "Pacific/Fiji"
+    ]
+  },
+  {
+    "region_code": "FK",
+    "region_cn": "福克兰群岛",
+    "region_en": "English",
+    "flag_emoji": "🇫🇰",
+    "svg_file": "flags/FK.svg",
+    "timezones": [
+      "Atlantic/Stanley"
+    ]
+  },
+  {
+    "region_code": "FM",
+    "region_cn": "密克罗尼西亚",
+    "region_en": "English",
+    "flag_emoji": "🇫🇲",
+    "svg_file": "flags/FM.svg",
+    "timezones": [
+      "Pacific/Chuuk",
+      "Pacific/Kosrae",
+      "Pacific/Pohnpei"
+    ]
+  },
+  {
+    "region_code": "FO",
+    "region_cn": "法罗群岛",
+    "region_en": "føroyskt",
+    "flag_emoji": "🇫🇴",
+    "svg_file": "flags/FO.svg",
+    "timezones": [
+      "Atlantic/Faroe"
+    ]
+  },
+  {
+    "region_code": "FR",
+    "region_cn": "法国",
+    "region_en": "français",
+    "flag_emoji": "🇫🇷",
+    "svg_file": "flags/FR.svg",
+    "timezones": [
+      "Europe/Paris"
+    ]
+  },
+  {
+    "region_code": "GA",
+    "region_cn": "加蓬",
+    "region_en": "français",
+    "flag_emoji": "🇬🇦",
+    "svg_file": "flags/GA.svg",
+    "timezones": [
+      "Africa/Libreville"
+    ]
+  },
+  {
+    "region_code": "GB",
+    "region_cn": "英国",
+    "region_en": "English",
+    "flag_emoji": "🇬🇧",
+    "svg_file": "flags/GB.svg",
+    "timezones": [
+      "Europe/London"
+    ]
+  },
+  {
+    "region_code": "GD",
+    "region_cn": "格林纳达",
+    "region_en": "English",
+    "flag_emoji": "🇬🇩",
+    "svg_file": "flags/GD.svg",
+    "timezones": [
+      "America/Grenada"
+    ]
+  },
+  {
+    "region_code": "GE",
+    "region_cn": "格鲁吉亚",
+    "region_en": "ქართული",
+    "flag_emoji": "🇬🇪",
+    "svg_file": "flags/GE.svg",
+    "timezones": [
+      "Asia/Tbilisi"
+    ]
+  },
+  {
+    "region_code": "GF",
+    "region_cn": "法属圭亚那",
+    "region_en": "français",
+    "flag_emoji": "🇬🇫",
+    "svg_file": "flags/GF.svg",
+    "timezones": [
+      "America/Cayenne"
+    ]
+  },
+  {
+    "region_code": "GG",
+    "region_cn": "根西岛",
+    "region_en": "English",
+    "flag_emoji": "🇬🇬",
+    "svg_file": "flags/GG.svg",
+    "timezones": [
+      "Europe/Guernsey"
+    ]
+  },
+  {
+    "region_code": "GH",
+    "region_cn": "加纳",
+    "region_en": "Akan",
+    "flag_emoji": "🇬🇭",
+    "svg_file": "flags/GH.svg",
+    "timezones": [
+      "Africa/Accra"
+    ]
+  },
+  {
+    "region_code": "GI",
+    "region_cn": "直布罗陀",
+    "region_en": "English",
+    "flag_emoji": "🇬🇮",
+    "svg_file": "flags/GI.svg",
+    "timezones": [
+      "Europe/Gibraltar"
+    ]
+  },
+  {
+    "region_code": "GL",
+    "region_cn": "格陵兰",
+    "region_en": "kalaallisut",
+    "flag_emoji": "🇬🇱",
+    "svg_file": "flags/GL.svg",
+    "timezones": [
+      "America/Danmarkshavn",
+      "America/Nuuk",
+      "America/Scoresbysund",
+      "America/Thule"
+    ]
+  },
+  {
+    "region_code": "GM",
+    "region_cn": "冈比亚",
+    "region_en": "English",
+    "flag_emoji": "🇬🇲",
+    "svg_file": "flags/GM.svg",
+    "timezones": [
+      "Africa/Banjul"
+    ]
+  },
+  {
+    "region_code": "GN",
+    "region_cn": "几内亚",
+    "region_en": "français",
+    "flag_emoji": "🇬🇳",
+    "svg_file": "flags/GN.svg",
+    "timezones": [
+      "Africa/Conakry"
+    ]
+  },
+  {
+    "region_code": "GP",
+    "region_cn": "瓜德罗普",
+    "region_en": "français",
+    "flag_emoji": "🇬🇵",
+    "svg_file": "flags/GP.svg",
+    "timezones": [
+      "America/Guadeloupe"
+    ]
+  },
+  {
+    "region_code": "GQ",
+    "region_cn": "赤道几内亚",
+    "region_en": "español",
+    "flag_emoji": "🇬🇶",
+    "svg_file": "flags/GQ.svg",
+    "timezones": [
+      "Africa/Malabo"
+    ]
+  },
+  {
+    "region_code": "GR",
+    "region_cn": "希腊",
+    "region_en": "Ελληνικά",
+    "flag_emoji": "🇬🇷",
+    "svg_file": "flags/GR.svg",
+    "timezones": [
+      "Europe/Athens"
+    ]
+  },
+  {
+    "region_code": "GS",
+    "region_cn": "南乔治亚和南桑威奇群岛",
+    "region_en": "English",
+    "flag_emoji": "🇬🇸",
+    "svg_file": "flags/GS.svg",
+    "timezones": [
+      "Atlantic/South_Georgia"
+    ]
+  },
+  {
+    "region_code": "GT",
+    "region_cn": "危地马拉",
+    "region_en": "español",
+    "flag_emoji": "🇬🇹",
+    "svg_file": "flags/GT.svg",
+    "timezones": [
+      "America/Guatemala"
+    ]
+  },
+  {
+    "region_code": "GU",
+    "region_cn": "关岛",
+    "region_en": "English",
+    "flag_emoji": "🇬🇺",
+    "svg_file": "flags/GU.svg",
+    "timezones": [
+      "Pacific/Guam"
+    ]
+  },
+  {
+    "region_code": "GW",
+    "region_cn": "几内亚比绍",
+    "region_en": "português",
+    "flag_emoji": "🇬🇼",
+    "svg_file": "flags/GW.svg",
+    "timezones": [
+      "Africa/Bissau"
+    ]
+  },
+  {
+    "region_code": "GY",
+    "region_cn": "圭亚那",
+    "region_en": "English",
+    "flag_emoji": "🇬🇾",
+    "svg_file": "flags/GY.svg",
+    "timezones": [
+      "America/Guyana"
+    ]
+  },
+  {
+    "region_code": "HK",
+    "region_cn": "中国香港特别行政区",
+    "region_en": "中文",
+    "flag_emoji": "🇭🇰",
+    "svg_file": "flags/HK.svg",
+    "timezones": [
+      "Asia/Hong_Kong"
+    ]
+  },
+  {
+    "region_code": "HN",
+    "region_cn": "洪都拉斯",
+    "region_en": "español",
+    "flag_emoji": "🇭🇳",
+    "svg_file": "flags/HN.svg",
+    "timezones": [
+      "America/Tegucigalpa"
+    ]
+  },
+  {
+    "region_code": "HR",
+    "region_cn": "克罗地亚",
+    "region_en": "hrvatski",
+    "flag_emoji": "🇭🇷",
+    "svg_file": "flags/HR.svg",
+    "timezones": [
+      "Europe/Zagreb"
+    ]
+  },
+  {
+    "region_code": "HT",
+    "region_cn": "海地",
+    "region_en": "Kreyòl Ayisyen",
+    "flag_emoji": "🇭🇹",
+    "svg_file": "flags/HT.svg",
+    "timezones": [
+      "America/Port-au-Prince"
+    ]
+  },
+  {
+    "region_code": "HU",
+    "region_cn": "匈牙利",
+    "region_en": "magyar",
+    "flag_emoji": "🇭🇺",
+    "svg_file": "flags/HU.svg",
+    "timezones": [
+      "Europe/Budapest"
+    ]
+  },
+  {
+    "region_code": "ID",
+    "region_cn": "印度尼西亚",
+    "region_en": "Bahasa Indonesia",
+    "flag_emoji": "🇮🇩",
+    "svg_file": "flags/ID.svg",
+    "timezones": [
+      "Asia/Jakarta",
+      "Asia/Jayapura",
+      "Asia/Makassar",
+      "Asia/Pontianak"
+    ]
+  },
+  {
+    "region_code": "IE",
+    "region_cn": "爱尔兰",
+    "region_en": "English",
+    "flag_emoji": "🇮🇪",
+    "svg_file": "flags/IE.svg",
+    "timezones": [
+      "Europe/Dublin"
+    ]
+  },
+  {
+    "region_code": "IL",
+    "region_cn": "以色列",
+    "region_en": "עברית",
+    "flag_emoji": "🇮🇱",
+    "svg_file": "flags/IL.svg",
+    "timezones": [
+      "Asia/Jerusalem"
+    ]
+  },
+  {
+    "region_code": "IM",
+    "region_cn": "马恩岛",
+    "region_en": "English",
+    "flag_emoji": "🇮🇲",
+    "svg_file": "flags/IM.svg",
+    "timezones": [
+      "Europe/Isle_of_Man"
+    ]
+  },
+  {
+    "region_code": "IN",
+    "region_cn": "印度",
+    "region_en": "हिन्दी",
+    "flag_emoji": "🇮🇳",
+    "svg_file": "flags/IN.svg",
+    "timezones": [
+      "Asia/Kolkata"
+    ]
+  },
+  {
+    "region_code": "IO",
+    "region_cn": "英属印度洋领地",
+    "region_en": "English",
+    "flag_emoji": "🇮🇴",
+    "svg_file": "flags/IO.svg",
+    "timezones": [
+      "Indian/Chagos"
+    ]
+  },
+  {
+    "region_code": "IQ",
+    "region_cn": "伊拉克",
+    "region_en": "العربية",
+    "flag_emoji": "🇮🇶",
+    "svg_file": "flags/IQ.svg",
+    "timezones": [
+      "Asia/Baghdad"
+    ]
+  },
+  {
+    "region_code": "IR",
+    "region_cn": "伊朗",
+    "region_en": "فارسی",
+    "flag_emoji": "🇮🇷",
+    "svg_file": "flags/IR.svg",
+    "timezones": [
+      "Asia/Tehran"
+    ]
+  },
+  {
+    "region_code": "IS",
+    "region_cn": "冰岛",
+    "region_en": "íslenska",
+    "flag_emoji": "🇮🇸",
+    "svg_file": "flags/IS.svg",
+    "timezones": [
+      "Atlantic/Reykjavik"
+    ]
+  },
+  {
+    "region_code": "IT",
+    "region_cn": "意大利",
+    "region_en": "italiano",
+    "flag_emoji": "🇮🇹",
+    "svg_file": "flags/IT.svg",
+    "timezones": [
+      "Europe/Rome"
+    ]
+  },
+  {
+    "region_code": "JE",
+    "region_cn": "泽西岛",
+    "region_en": "English",
+    "flag_emoji": "🇯🇪",
+    "svg_file": "flags/JE.svg",
+    "timezones": [
+      "Europe/Jersey"
+    ]
+  },
+  {
+    "region_code": "JM",
+    "region_cn": "牙买加",
+    "region_en": "English",
+    "flag_emoji": "🇯🇲",
+    "svg_file": "flags/JM.svg",
+    "timezones": [
+      "America/Jamaica"
+    ]
+  },
+  {
+    "region_code": "JO",
+    "region_cn": "约旦",
+    "region_en": "العربية",
+    "flag_emoji": "🇯🇴",
+    "svg_file": "flags/JO.svg",
+    "timezones": [
+      "Asia/Amman"
+    ]
+  },
+  {
+    "region_code": "JP",
+    "region_cn": "日本",
+    "region_en": "日本語",
+    "flag_emoji": "🇯🇵",
+    "svg_file": "flags/JP.svg",
+    "timezones": [
+      "Asia/Tokyo"
+    ]
+  },
+  {
+    "region_code": "KE",
+    "region_cn": "肯尼亚",
+    "region_en": "Kiswahili",
+    "flag_emoji": "🇰🇪",
+    "svg_file": "flags/KE.svg",
+    "timezones": [
+      "Africa/Nairobi"
+    ]
+  },
+  {
+    "region_code": "KG",
+    "region_cn": "吉尔吉斯斯坦",
+    "region_en": "кыргызча",
+    "flag_emoji": "🇰🇬",
+    "svg_file": "flags/KG.svg",
+    "timezones": [
+      "Asia/Bishkek"
+    ]
+  },
+  {
+    "region_code": "KH",
+    "region_cn": "柬埔寨",
+    "region_en": "ខ្មែរ",
+    "flag_emoji": "🇰🇭",
+    "svg_file": "flags/KH.svg",
+    "timezones": [
+      "Asia/Phnom_Penh"
+    ]
+  },
+  {
+    "region_code": "KI",
+    "region_cn": "基里巴斯",
+    "region_en": "English",
+    "flag_emoji": "🇰🇮",
+    "svg_file": "flags/KI.svg",
+    "timezones": [
+      "Pacific/Kanton",
+      "Pacific/Kiritimati",
+      "Pacific/Tarawa"
+    ]
+  },
+  {
+    "region_code": "KM",
+    "region_cn": "科摩罗",
+    "region_en": "العربية",
+    "flag_emoji": "🇰🇲",
+    "svg_file": "flags/KM.svg",
+    "timezones": [
+      "Indian/Comoro"
+    ]
+  },
+  {
+    "region_code": "KN",
+    "region_cn": "圣基茨和尼维斯",
+    "region_en": "English",
+    "flag_emoji": "🇰🇳",
+    "svg_file": "flags/KN.svg",
+    "timezones": [
+      "America/St_Kitts"
+    ]
+  },
+  {
+    "region_code": "KP",
+    "region_cn": "朝鲜",
+    "region_en": "한국어",
+    "flag_emoji": "🇰🇵",
+    "svg_file": "flags/KP.svg",
+    "timezones": [
+      "Asia/Pyongyang"
+    ]
+  },
+  {
+    "region_code": "KR",
+    "region_cn": "韩国",
+    "region_en": "한국어",
+    "flag_emoji": "🇰🇷",
+    "svg_file": "flags/KR.svg",
+    "timezones": [
+      "Asia/Seoul"
+    ]
+  },
+  {
+    "region_code": "KW",
+    "region_cn": "科威特",
+    "region_en": "العربية",
+    "flag_emoji": "🇰🇼",
+    "svg_file": "flags/KW.svg",
+    "timezones": [
+      "Asia/Kuwait"
+    ]
+  },
+  {
+    "region_code": "KY",
+    "region_cn": "开曼群岛",
+    "region_en": "English",
+    "flag_emoji": "🇰🇾",
+    "svg_file": "flags/KY.svg",
+    "timezones": [
+      "America/Cayman"
+    ]
+  },
+  {
+    "region_code": "KZ",
+    "region_cn": "哈萨克斯坦",
+    "region_en": "русский",
+    "flag_emoji": "🇰🇿",
+    "svg_file": "flags/KZ.svg",
+    "timezones": [
+      "Asia/Almaty",
+      "Asia/Aqtau",
+      "Asia/Aqtobe",
+      "Asia/Atyrau",
+      "Asia/Oral",
+      "Asia/Qostanay",
+      "Asia/Qyzylorda"
+    ]
+  },
+  {
+    "region_code": "LA",
+    "region_cn": "老挝",
+    "region_en": "ລາວ",
+    "flag_emoji": "🇱🇦",
+    "svg_file": "flags/LA.svg",
+    "timezones": [
+      "Asia/Vientiane"
+    ]
+  },
+  {
+    "region_code": "LB",
+    "region_cn": "黎巴嫩",
+    "region_en": "العربية",
+    "flag_emoji": "🇱🇧",
+    "svg_file": "flags/LB.svg",
+    "timezones": [
+      "Asia/Beirut"
+    ]
+  },
+  {
+    "region_code": "LC",
+    "region_cn": "圣卢西亚",
+    "region_en": "English",
+    "flag_emoji": "🇱🇨",
+    "svg_file": "flags/LC.svg",
+    "timezones": [
+      "America/St_Lucia"
+    ]
+  },
+  {
+    "region_code": "LI",
+    "region_cn": "列支敦士登",
+    "region_en": "Deutsch",
+    "flag_emoji": "🇱🇮",
+    "svg_file": "flags/LI.svg",
+    "timezones": [
+      "Europe/Vaduz"
+    ]
+  },
+  {
+    "region_code": "LK",
+    "region_cn": "斯里兰卡",
+    "region_en": "සිංහල",
+    "flag_emoji": "🇱🇰",
+    "svg_file": "flags/LK.svg",
+    "timezones": [
+      "Asia/Colombo"
+    ]
+  },
+  {
+    "region_code": "LR",
+    "region_cn": "利比里亚",
+    "region_en": "English",
+    "flag_emoji": "🇱🇷",
+    "svg_file": "flags/LR.svg",
+    "timezones": [
+      "Africa/Monrovia"
+    ]
+  },
+  {
+    "region_code": "LS",
+    "region_cn": "莱索托",
+    "region_en": "Sesotho",
+    "flag_emoji": "🇱🇸",
+    "svg_file": "flags/LS.svg",
+    "timezones": [
+      "Africa/Maseru"
+    ]
+  },
+  {
+    "region_code": "LT",
+    "region_cn": "立陶宛",
+    "region_en": "lietuvių",
+    "flag_emoji": "🇱🇹",
+    "svg_file": "flags/LT.svg",
+    "timezones": [
+      "Europe/Vilnius"
+    ]
+  },
+  {
+    "region_code": "LU",
+    "region_cn": "卢森堡",
+    "region_en": "français",
+    "flag_emoji": "🇱🇺",
+    "svg_file": "flags/LU.svg",
+    "timezones": [
+      "Europe/Luxembourg"
+    ]
+  },
+  {
+    "region_code": "LV",
+    "region_cn": "拉脱维亚",
+    "region_en": "latviešu",
+    "flag_emoji": "🇱🇻",
+    "svg_file": "flags/LV.svg",
+    "timezones": [
+      "Europe/Riga"
+    ]
+  },
+  {
+    "region_code": "LY",
+    "region_cn": "利比亚",
+    "region_en": "العربية",
+    "flag_emoji": "🇱🇾",
+    "svg_file": "flags/LY.svg",
+    "timezones": [
+      "Africa/Tripoli"
+    ]
+  },
+  {
+    "region_code": "MA",
+    "region_cn": "摩洛哥",
+    "region_en": "العربية",
+    "flag_emoji": "🇲🇦",
+    "svg_file": "flags/MA.svg",
+    "timezones": [
+      "Africa/Casablanca"
+    ]
+  },
+  {
+    "region_code": "MC",
+    "region_cn": "摩纳哥",
+    "region_en": "français",
+    "flag_emoji": "🇲🇨",
+    "svg_file": "flags/MC.svg",
+    "timezones": [
+      "Europe/Monaco"
+    ]
+  },
+  {
+    "region_code": "MD",
+    "region_cn": "摩尔多瓦",
+    "region_en": "română",
+    "flag_emoji": "🇲🇩",
+    "svg_file": "flags/MD.svg",
+    "timezones": [
+      "Europe/Chisinau"
+    ]
+  },
+  {
+    "region_code": "ME",
+    "region_cn": "黑山",
+    "region_en": "srpski",
+    "flag_emoji": "🇲🇪",
+    "svg_file": "flags/ME.svg",
+    "timezones": [
+      "Europe/Podgorica"
+    ]
+  },
+  {
+    "region_code": "MF",
+    "region_cn": "法属圣马丁",
+    "region_en": "français",
+    "flag_emoji": "🇲🇫",
+    "svg_file": "flags/MF.svg",
+    "timezones": [
+      "America/Marigot"
+    ]
+  },
+  {
+    "region_code": "MG",
+    "region_cn": "马达加斯加",
+    "region_en": "Malagasy",
+    "flag_emoji": "🇲🇬",
+    "svg_file": "flags/MG.svg",
+    "timezones": [
+      "Indian/Antananarivo"
+    ]
+  },
+  {
+    "region_code": "MH",
+    "region_cn": "马绍尔群岛",
+    "region_en": "English",
+    "flag_emoji": "🇲🇭",
+    "svg_file": "flags/MH.svg",
+    "timezones": [
+      "Pacific/Kwajalein",
+      "Pacific/Majuro"
+    ]
+  },
+  {
+    "region_code": "MK",
+    "region_cn": "北马其顿",
+    "region_en": "македонски",
+    "flag_emoji": "🇲🇰",
+    "svg_file": "flags/MK.svg",
+    "timezones": [
+      "Europe/Skopje"
+    ]
+  },
+  {
+    "region_code": "ML",
+    "region_cn": "马里",
+    "region_en": "français",
+    "flag_emoji": "🇲🇱",
+    "svg_file": "flags/ML.svg",
+    "timezones": [
+      "Africa/Bamako"
+    ]
+  },
+  {
+    "region_code": "MM",
+    "region_cn": "缅甸",
+    "region_en": "မြန်မာ",
+    "flag_emoji": "🇲🇲",
+    "svg_file": "flags/MM.svg",
+    "timezones": [
+      "Asia/Yangon"
+    ]
+  },
+  {
+    "region_code": "MN",
+    "region_cn": "蒙古",
+    "region_en": "монгол",
+    "flag_emoji": "🇲🇳",
+    "svg_file": "flags/MN.svg",
+    "timezones": [
+      "Asia/Hovd",
+      "Asia/Ulaanbaatar"
+    ]
+  },
+  {
+    "region_code": "MO",
+    "region_cn": "中国澳门特别行政区",
+    "region_en": "中文",
+    "flag_emoji": "🇲🇴",
+    "svg_file": "flags/MO.svg",
+    "timezones": [
+      "Asia/Macau"
+    ]
+  },
+  {
+    "region_code": "MP",
+    "region_cn": "北马里亚纳群岛",
+    "region_en": "English",
+    "flag_emoji": "🇲🇵",
+    "svg_file": "flags/MP.svg",
+    "timezones": [
+      "Pacific/Saipan"
+    ]
+  },
+  {
+    "region_code": "MQ",
+    "region_cn": "马提尼克",
+    "region_en": "français",
+    "flag_emoji": "🇲🇶",
+    "svg_file": "flags/MQ.svg",
+    "timezones": [
+      "America/Martinique"
+    ]
+  },
+  {
+    "region_code": "MR",
+    "region_cn": "毛里塔尼亚",
+    "region_en": "العربية",
+    "flag_emoji": "🇲🇷",
+    "svg_file": "flags/MR.svg",
+    "timezones": [
+      "Africa/Nouakchott"
+    ]
+  },
+  {
+    "region_code": "MS",
+    "region_cn": "蒙特塞拉特",
+    "region_en": "English",
+    "flag_emoji": "🇲🇸",
+    "svg_file": "flags/MS.svg",
+    "timezones": [
+      "America/Montserrat"
+    ]
+  },
+  {
+    "region_code": "MT",
+    "region_cn": "马耳他",
+    "region_en": "Malti",
+    "flag_emoji": "🇲🇹",
+    "svg_file": "flags/MT.svg",
+    "timezones": [
+      "Europe/Malta"
+    ]
+  },
+  {
+    "region_code": "MU",
+    "region_cn": "毛里求斯",
+    "region_en": "français",
+    "flag_emoji": "🇲🇺",
+    "svg_file": "flags/MU.svg",
+    "timezones": [
+      "Indian/Mauritius"
+    ]
+  },
+  {
+    "region_code": "MV",
+    "region_cn": "马尔代夫",
+    "region_en": "ދިވެހިބަސް",
+    "flag_emoji": "🇲🇻",
+    "svg_file": "flags/MV.svg",
+    "timezones": [
+      "Indian/Maldives"
+    ]
+  },
+  {
+    "region_code": "MW",
+    "region_cn": "马拉维",
+    "region_en": "English",
+    "flag_emoji": "🇲🇼",
+    "svg_file": "flags/MW.svg",
+    "timezones": [
+      "Africa/Blantyre"
+    ]
+  },
+  {
+    "region_code": "MX",
+    "region_cn": "墨西哥",
+    "region_en": "español",
+    "flag_emoji": "🇲🇽",
+    "svg_file": "flags/MX.svg",
+    "timezones": [
+      "America/Bahia_Banderas",
+      "America/Cancun",
+      "America/Chihuahua",
+      "America/Ciudad_Juarez",
+      "America/Hermosillo",
+      "America/Matamoros",
+      "America/Mazatlan",
+      "America/Merida",
+      "America/Mexico_City",
+      "America/Monterrey",
+      "America/Ojinaga",
+      "America/Tijuana"
+    ]
+  },
+  {
+    "region_code": "MY",
+    "region_cn": "马来西亚",
+    "region_en": "Bahasa Melayu",
+    "flag_emoji": "🇲🇾",
+    "svg_file": "flags/MY.svg",
+    "timezones": [
+      "Asia/Kuala_Lumpur",
+      "Asia/Kuching"
+    ]
+  },
+  {
+    "region_code": "MZ",
+    "region_cn": "莫桑比克",
+    "region_en": "português",
+    "flag_emoji": "🇲🇿",
+    "svg_file": "flags/MZ.svg",
+    "timezones": [
+      "Africa/Maputo"
+    ]
+  },
+  {
+    "region_code": "NA",
+    "region_cn": "纳米比亚",
+    "region_en": "English",
+    "flag_emoji": "🇳🇦",
+    "svg_file": "flags/NA.svg",
+    "timezones": [
+      "Africa/Windhoek"
+    ]
+  },
+  {
+    "region_code": "NC",
+    "region_cn": "新喀里多尼亚",
+    "region_en": "français",
+    "flag_emoji": "🇳🇨",
+    "svg_file": "flags/NC.svg",
+    "timezones": [
+      "Pacific/Noumea"
+    ]
+  },
+  {
+    "region_code": "NE",
+    "region_cn": "尼日尔",
+    "region_en": "français",
+    "flag_emoji": "🇳🇪",
+    "svg_file": "flags/NE.svg",
+    "timezones": [
+      "Africa/Niamey"
+    ]
+  },
+  {
+    "region_code": "NF",
+    "region_cn": "诺福克岛",
+    "region_en": "English",
+    "flag_emoji": "🇳🇫",
+    "svg_file": "flags/NF.svg",
+    "timezones": [
+      "Pacific/Norfolk"
+    ]
+  },
+  {
+    "region_code": "NG",
+    "region_cn": "尼日利亚",
+    "region_en": "English",
+    "flag_emoji": "🇳🇬",
+    "svg_file": "flags/NG.svg",
+    "timezones": [
+      "Africa/Lagos"
+    ]
+  },
+  {
+    "region_code": "NI",
+    "region_cn": "尼加拉瓜",
+    "region_en": "español",
+    "flag_emoji": "🇳🇮",
+    "svg_file": "flags/NI.svg",
+    "timezones": [
+      "America/Managua"
+    ]
+  },
+  {
+    "region_code": "NL",
+    "region_cn": "荷兰",
+    "region_en": "Nederlands",
+    "flag_emoji": "🇳🇱",
+    "svg_file": "flags/NL.svg",
+    "timezones": [
+      "Europe/Amsterdam"
+    ]
+  },
+  {
+    "region_code": "NO",
+    "region_cn": "挪威",
+    "region_en": "norsk bokmål",
+    "flag_emoji": "🇳🇴",
+    "svg_file": "flags/NO.svg",
+    "timezones": [
+      "Europe/Oslo"
+    ]
+  },
+  {
+    "region_code": "NP",
+    "region_cn": "尼泊尔",
+    "region_en": "नेपाली",
+    "flag_emoji": "🇳🇵",
+    "svg_file": "flags/NP.svg",
+    "timezones": [
+      "Asia/Kathmandu"
+    ]
+  },
+  {
+    "region_code": "NR",
+    "region_cn": "瑙鲁",
+    "region_en": "English",
+    "flag_emoji": "🇳🇷",
+    "svg_file": "flags/NR.svg",
+    "timezones": [
+      "Pacific/Nauru"
+    ]
+  },
+  {
+    "region_code": "NU",
+    "region_cn": "纽埃",
+    "region_en": "English",
+    "flag_emoji": "🇳🇺",
+    "svg_file": "flags/NU.svg",
+    "timezones": [
+      "Pacific/Niue"
+    ]
+  },
+  {
+    "region_code": "NZ",
+    "region_cn": "新西兰",
+    "region_en": "English",
+    "flag_emoji": "🇳🇿",
+    "svg_file": "flags/NZ.svg",
+    "timezones": [
+      "Pacific/Auckland",
+      "Pacific/Chatham"
+    ]
+  },
+  {
+    "region_code": "OM",
+    "region_cn": "阿曼",
+    "region_en": "العربية",
+    "flag_emoji": "🇴🇲",
+    "svg_file": "flags/OM.svg",
+    "timezones": [
+      "Asia/Muscat"
+    ]
+  },
+  {
+    "region_code": "PA",
+    "region_cn": "巴拿马",
+    "region_en": "español",
+    "flag_emoji": "🇵🇦",
+    "svg_file": "flags/PA.svg",
+    "timezones": [
+      "America/Panama"
+    ]
+  },
+  {
+    "region_code": "PE",
+    "region_cn": "秘鲁",
+    "region_en": "español",
+    "flag_emoji": "🇵🇪",
+    "svg_file": "flags/PE.svg",
+    "timezones": [
+      "America/Lima"
+    ]
+  },
+  {
+    "region_code": "PF",
+    "region_cn": "法属波利尼西亚",
+    "region_en": "français",
+    "flag_emoji": "🇵🇫",
+    "svg_file": "flags/PF.svg",
+    "timezones": [
+      "Pacific/Gambier",
+      "Pacific/Marquesas",
+      "Pacific/Tahiti"
+    ]
+  },
+  {
+    "region_code": "PG",
+    "region_cn": "巴布亚新几内亚",
+    "region_en": "Tok Pisin",
+    "flag_emoji": "🇵🇬",
+    "svg_file": "flags/PG.svg",
+    "timezones": [
+      "Pacific/Bougainville",
+      "Pacific/Port_Moresby"
+    ]
+  },
+  {
+    "region_code": "PH",
+    "region_cn": "菲律宾",
+    "region_en": "English",
+    "flag_emoji": "🇵🇭",
+    "svg_file": "flags/PH.svg",
+    "timezones": [
+      "Asia/Manila"
+    ]
+  },
+  {
+    "region_code": "PK",
+    "region_cn": "巴基斯坦",
+    "region_en": "اردو",
+    "flag_emoji": "🇵🇰",
+    "svg_file": "flags/PK.svg",
+    "timezones": [
+      "Asia/Karachi"
+    ]
+  },
+  {
+    "region_code": "PL",
+    "region_cn": "波兰",
+    "region_en": "polski",
+    "flag_emoji": "🇵🇱",
+    "svg_file": "flags/PL.svg",
+    "timezones": [
+      "Europe/Warsaw"
+    ]
+  },
+  {
+    "region_code": "PM",
+    "region_cn": "圣皮埃尔和密克隆群岛",
+    "region_en": "français",
+    "flag_emoji": "🇵🇲",
+    "svg_file": "flags/PM.svg",
+    "timezones": [
+      "America/Miquelon"
+    ]
+  },
+  {
+    "region_code": "PN",
+    "region_cn": "皮特凯恩群岛",
+    "region_en": "English",
+    "flag_emoji": "🇵🇳",
+    "svg_file": "flags/PN.svg",
+    "timezones": [
+      "Pacific/Pitcairn"
+    ]
+  },
+  {
+    "region_code": "PR",
+    "region_cn": "波多黎各",
+    "region_en": "español",
+    "flag_emoji": "🇵🇷",
+    "svg_file": "flags/PR.svg",
+    "timezones": [
+      "America/Puerto_Rico"
+    ]
+  },
+  {
+    "region_code": "PS",
+    "region_cn": "巴勒斯坦领土",
+    "region_en": "العربية",
+    "flag_emoji": "🇵🇸",
+    "svg_file": "flags/PS.svg",
+    "timezones": [
+      "Asia/Gaza",
+      "Asia/Hebron"
+    ]
+  },
+  {
+    "region_code": "PT",
+    "region_cn": "葡萄牙",
+    "region_en": "português",
+    "flag_emoji": "🇵🇹",
+    "svg_file": "flags/PT.svg",
+    "timezones": [
+      "Atlantic/Azores",
+      "Atlantic/Madeira",
+      "Europe/Lisbon"
+    ]
+  },
+  {
+    "region_code": "PW",
+    "region_cn": "帕劳",
+    "region_en": "pau",
+    "flag_emoji": "🇵🇼",
+    "svg_file": "flags/PW.svg",
+    "timezones": [
+      "Pacific/Palau"
+    ]
+  },
+  {
+    "region_code": "PY",
+    "region_cn": "巴拉圭",
+    "region_en": "avañe’ẽ",
+    "flag_emoji": "🇵🇾",
+    "svg_file": "flags/PY.svg",
+    "timezones": [
+      "America/Asuncion"
+    ]
+  },
+  {
+    "region_code": "QA",
+    "region_cn": "卡塔尔",
+    "region_en": "العربية",
+    "flag_emoji": "🇶🇦",
+    "svg_file": "flags/QA.svg",
+    "timezones": [
+      "Asia/Qatar"
+    ]
+  },
+  {
+    "region_code": "RE",
+    "region_cn": "留尼汪",
+    "region_en": "français",
+    "flag_emoji": "🇷🇪",
+    "svg_file": "flags/RE.svg",
+    "timezones": [
+      "Indian/Reunion"
+    ]
+  },
+  {
+    "region_code": "RO",
+    "region_cn": "罗马尼亚",
+    "region_en": "română",
+    "flag_emoji": "🇷🇴",
+    "svg_file": "flags/RO.svg",
+    "timezones": [
+      "Europe/Bucharest"
+    ]
+  },
+  {
+    "region_code": "RS",
+    "region_cn": "塞尔维亚",
+    "region_en": "српски",
+    "flag_emoji": "🇷🇸",
+    "svg_file": "flags/RS.svg",
+    "timezones": [
+      "Europe/Belgrade"
+    ]
+  },
+  {
+    "region_code": "RU",
+    "region_cn": "俄罗斯",
+    "region_en": "русский",
+    "flag_emoji": "🇷🇺",
+    "svg_file": "flags/RU.svg",
+    "timezones": [
+      "Asia/Anadyr",
+      "Asia/Barnaul",
+      "Asia/Chita",
+      "Asia/Irkutsk",
+      "Asia/Kamchatka",
+      "Asia/Khandyga",
+      "Asia/Krasnoyarsk",
+      "Asia/Magadan",
+      "Asia/Novokuznetsk",
+      "Asia/Novosibirsk",
+      "Asia/Omsk",
+      "Asia/Sakhalin",
+      "Asia/Srednekolymsk",
+      "Asia/Tomsk",
+      "Asia/Ust-Nera",
+      "Asia/Vladivostok",
+      "Asia/Yakutsk",
+      "Asia/Yekaterinburg",
+      "Europe/Astrakhan",
+      "Europe/Kaliningrad",
+      "Europe/Kirov",
+      "Europe/Moscow",
+      "Europe/Samara",
+      "Europe/Saratov",
+      "Europe/Ulyanovsk",
+      "Europe/Volgograd"
+    ]
+  },
+  {
+    "region_code": "RW",
+    "region_cn": "卢旺达",
+    "region_en": "Ikinyarwanda",
+    "flag_emoji": "🇷🇼",
+    "svg_file": "flags/RW.svg",
+    "timezones": [
+      "Africa/Kigali"
+    ]
+  },
+  {
+    "region_code": "SA",
+    "region_cn": "沙特阿拉伯",
+    "region_en": "العربية",
+    "flag_emoji": "🇸🇦",
+    "svg_file": "flags/SA.svg",
+    "timezones": [
+      "Asia/Riyadh"
+    ]
+  },
+  {
+    "region_code": "SB",
+    "region_cn": "所罗门群岛",
+    "region_en": "English",
+    "flag_emoji": "🇸🇧",
+    "svg_file": "flags/SB.svg",
+    "timezones": [
+      "Pacific/Guadalcanal"
+    ]
+  },
+  {
+    "region_code": "SC",
+    "region_cn": "塞舌尔",
+    "region_en": "français",
+    "flag_emoji": "🇸🇨",
+    "svg_file": "flags/SC.svg",
+    "timezones": [
+      "Indian/Mahe"
+    ]
+  },
+  {
+    "region_code": "SD",
+    "region_cn": "苏丹",
+    "region_en": "العربية",
+    "flag_emoji": "🇸🇩",
+    "svg_file": "flags/SD.svg",
+    "timezones": [
+      "Africa/Khartoum"
+    ]
+  },
+  {
+    "region_code": "SE",
+    "region_cn": "瑞典",
+    "region_en": "svenska",
+    "flag_emoji": "🇸🇪",
+    "svg_file": "flags/SE.svg",
+    "timezones": [
+      "Europe/Stockholm"
+    ]
+  },
+  {
+    "region_code": "SG",
+    "region_cn": "新加坡",
+    "region_en": "English",
+    "flag_emoji": "🇸🇬",
+    "svg_file": "flags/SG.svg",
+    "timezones": [
+      "Asia/Singapore"
+    ]
+  },
+  {
+    "region_code": "SH",
+    "region_cn": "圣赫勒拿",
+    "region_en": "English",
+    "flag_emoji": "🇸🇭",
+    "svg_file": "flags/SH.svg",
+    "timezones": [
+      "Atlantic/St_Helena"
+    ]
+  },
+  {
+    "region_code": "SI",
+    "region_cn": "斯洛文尼亚",
+    "region_en": "slovenščina",
+    "flag_emoji": "🇸🇮",
+    "svg_file": "flags/SI.svg",
+    "timezones": [
+      "Europe/Ljubljana"
+    ]
+  },
+  {
+    "region_code": "SJ",
+    "region_cn": "斯瓦尔巴和扬马延",
+    "region_en": "norsk bokmål",
+    "flag_emoji": "🇸🇯",
+    "svg_file": "flags/SJ.svg",
+    "timezones": [
+      "Arctic/Longyearbyen"
+    ]
+  },
+  {
+    "region_code": "SK",
+    "region_cn": "斯洛伐克",
+    "region_en": "slovenčina",
+    "flag_emoji": "🇸🇰",
+    "svg_file": "flags/SK.svg",
+    "timezones": [
+      "Europe/Bratislava"
+    ]
+  },
+  {
+    "region_code": "SL",
+    "region_cn": "塞拉利昂",
+    "region_en": "English",
+    "flag_emoji": "🇸🇱",
+    "svg_file": "flags/SL.svg",
+    "timezones": [
+      "Africa/Freetown"
+    ]
+  },
+  {
+    "region_code": "SM",
+    "region_cn": "圣马力诺",
+    "region_en": "italiano",
+    "flag_emoji": "🇸🇲",
+    "svg_file": "flags/SM.svg",
+    "timezones": [
+      "Europe/San_Marino"
+    ]
+  },
+  {
+    "region_code": "SN",
+    "region_cn": "塞内加尔",
+    "region_en": "Wolof",
+    "flag_emoji": "🇸🇳",
+    "svg_file": "flags/SN.svg",
+    "timezones": [
+      "Africa/Dakar"
+    ]
+  },
+  {
+    "region_code": "SO",
+    "region_cn": "索马里",
+    "region_en": "Soomaali",
+    "flag_emoji": "🇸🇴",
+    "svg_file": "flags/SO.svg",
+    "timezones": [
+      "Africa/Mogadishu"
+    ]
+  },
+  {
+    "region_code": "SR",
+    "region_cn": "苏里南",
+    "region_en": "Nederlands",
+    "flag_emoji": "🇸🇷",
+    "svg_file": "flags/SR.svg",
+    "timezones": [
+      "America/Paramaribo"
+    ]
+  },
+  {
+    "region_code": "SS",
+    "region_cn": "南苏丹",
+    "region_en": "English",
+    "flag_emoji": "🇸🇸",
+    "svg_file": "flags/SS.svg",
+    "timezones": [
+      "Africa/Juba"
+    ]
+  },
+  {
+    "region_code": "ST",
+    "region_cn": "圣多美和普林西比",
+    "region_en": "português",
+    "flag_emoji": "🇸🇹",
+    "svg_file": "flags/ST.svg",
+    "timezones": [
+      "Africa/Sao_Tome"
+    ]
+  },
+  {
+    "region_code": "SV",
+    "region_cn": "萨尔瓦多",
+    "region_en": "español",
+    "flag_emoji": "🇸🇻",
+    "svg_file": "flags/SV.svg",
+    "timezones": [
+      "America/El_Salvador"
+    ]
+  },
+  {
+    "region_code": "SX",
+    "region_cn": "荷属圣马丁",
+    "region_en": "English",
+    "flag_emoji": "🇸🇽",
+    "svg_file": "flags/SX.svg",
+    "timezones": [
+      "America/Lower_Princes"
+    ]
+  },
+  {
+    "region_code": "SY",
+    "region_cn": "叙利亚",
+    "region_en": "العربية",
+    "flag_emoji": "🇸🇾",
+    "svg_file": "flags/SY.svg",
+    "timezones": [
+      "Asia/Damascus"
+    ]
+  },
+  {
+    "region_code": "SZ",
+    "region_cn": "斯威士兰",
+    "region_en": "English",
+    "flag_emoji": "🇸🇿",
+    "svg_file": "flags/SZ.svg",
+    "timezones": [
+      "Africa/Mbabane"
+    ]
+  },
+  {
+    "region_code": "TC",
+    "region_cn": "特克斯和凯科斯群岛",
+    "region_en": "English",
+    "flag_emoji": "🇹🇨",
+    "svg_file": "flags/TC.svg",
+    "timezones": [
+      "America/Grand_Turk"
+    ]
+  },
+  {
+    "region_code": "TD",
+    "region_cn": "乍得",
+    "region_en": "العربية",
+    "flag_emoji": "🇹🇩",
+    "svg_file": "flags/TD.svg",
+    "timezones": [
+      "Africa/Ndjamena"
+    ]
+  },
+  {
+    "region_code": "TF",
+    "region_cn": "法属南部领地",
+    "region_en": "français",
+    "flag_emoji": "🇹🇫",
+    "svg_file": "flags/TF.svg",
+    "timezones": [
+      "Indian/Kerguelen"
+    ]
+  },
+  {
+    "region_code": "TG",
+    "region_cn": "多哥",
+    "region_en": "français",
+    "flag_emoji": "🇹🇬",
+    "svg_file": "flags/TG.svg",
+    "timezones": [
+      "Africa/Lome"
+    ]
+  },
+  {
+    "region_code": "TH",
+    "region_cn": "泰国",
+    "region_en": "ไทย",
+    "flag_emoji": "🇹🇭",
+    "svg_file": "flags/TH.svg",
+    "timezones": [
+      "Asia/Bangkok"
+    ]
+  },
+  {
+    "region_code": "TJ",
+    "region_cn": "塔吉克斯坦",
+    "region_en": "тоҷикӣ",
+    "flag_emoji": "🇹🇯",
+    "svg_file": "flags/TJ.svg",
+    "timezones": [
+      "Asia/Dushanbe"
+    ]
+  },
+  {
+    "region_code": "TK",
+    "region_cn": "托克劳",
+    "region_en": "tkl",
+    "flag_emoji": "🇹🇰",
+    "svg_file": "flags/TK.svg",
+    "timezones": [
+      "Pacific/Fakaofo"
+    ]
+  },
+  {
+    "region_code": "TL",
+    "region_cn": "东帝汶",
+    "region_en": "português",
+    "flag_emoji": "🇹🇱",
+    "svg_file": "flags/TL.svg",
+    "timezones": [
+      "Asia/Dili"
+    ]
+  },
+  {
+    "region_code": "TM",
+    "region_cn": "土库曼斯坦",
+    "region_en": "türkmen dili",
+    "flag_emoji": "🇹🇲",
+    "svg_file": "flags/TM.svg",
+    "timezones": [
+      "Asia/Ashgabat"
+    ]
+  },
+  {
+    "region_code": "TN",
+    "region_cn": "突尼斯",
+    "region_en": "العربية",
+    "flag_emoji": "🇹🇳",
+    "svg_file": "flags/TN.svg",
+    "timezones": [
+      "Africa/Tunis"
+    ]
+  },
+  {
+    "region_code": "TO",
+    "region_cn": "汤加",
+    "region_en": "lea fakatonga",
+    "flag_emoji": "🇹🇴",
+    "svg_file": "flags/TO.svg",
+    "timezones": [
+      "Pacific/Tongatapu"
+    ]
+  },
+  {
+    "region_code": "TR",
+    "region_cn": "土耳其",
+    "region_en": "Türkçe",
+    "flag_emoji": "🇹🇷",
+    "svg_file": "flags/TR.svg",
+    "timezones": [
+      "Europe/Istanbul"
+    ]
+  },
+  {
+    "region_code": "TT",
+    "region_cn": "特立尼达和多巴哥",
+    "region_en": "English",
+    "flag_emoji": "🇹🇹",
+    "svg_file": "flags/TT.svg",
+    "timezones": [
+      "America/Port_of_Spain"
+    ]
+  },
+  {
+    "region_code": "TV",
+    "region_cn": "图瓦卢",
+    "region_en": "tvl",
+    "flag_emoji": "🇹🇻",
+    "svg_file": "flags/TV.svg",
+    "timezones": [
+      "Pacific/Funafuti"
+    ]
+  },
+  {
+    "region_code": "TW",
+    "region_cn": "台湾",
+    "region_en": "中文",
+    "flag_emoji": "🇹🇼",
+    "svg_file": "flags/TW.svg",
+    "timezones": [
+      "Asia/Taipei"
+    ]
+  },
+  {
+    "region_code": "TZ",
+    "region_cn": "坦桑尼亚",
+    "region_en": "Kiswahili",
+    "flag_emoji": "🇹🇿",
+    "svg_file": "flags/TZ.svg",
+    "timezones": [
+      "Africa/Dar_es_Salaam"
+    ]
+  },
+  {
+    "region_code": "UA",
+    "region_cn": "乌克兰",
+    "region_en": "українська",
+    "flag_emoji": "🇺🇦",
+    "svg_file": "flags/UA.svg",
+    "timezones": [
+      "Europe/Kyiv",
+      "Europe/Simferopol"
+    ]
+  },
+  {
+    "region_code": "UG",
+    "region_cn": "乌干达",
+    "region_en": "Kiswahili",
+    "flag_emoji": "🇺🇬",
+    "svg_file": "flags/UG.svg",
+    "timezones": [
+      "Africa/Kampala"
+    ]
+  },
+  {
+    "region_code": "UM",
+    "region_cn": "美国本土外小岛屿",
+    "region_en": "English",
+    "flag_emoji": "🇺🇲",
+    "svg_file": "flags/UM.svg",
+    "timezones": [
+      "Pacific/Midway",
+      "Pacific/Wake"
+    ]
+  },
+  {
+    "region_code": "US",
+    "region_cn": "美国",
+    "region_en": "English",
+    "flag_emoji": "🇺🇸",
+    "svg_file": "flags/US.svg",
+    "timezones": [
+      "America/Adak",
+      "America/Anchorage",
+      "America/Boise",
+      "America/Chicago",
+      "America/Denver",
+      "America/Detroit",
+      "America/Indiana/Indianapolis",
+      "America/Indiana/Knox",
+      "America/Indiana/Marengo",
+      "America/Indiana/Petersburg",
+      "America/Indiana/Tell_City",
+      "America/Indiana/Vevay",
+      "America/Indiana/Vincennes",
+      "America/Indiana/Winamac",
+      "America/Juneau",
+      "America/Kentucky/Louisville",
+      "America/Kentucky/Monticello",
+      "America/Los_Angeles",
+      "America/Menominee",
+      "America/Metlakatla",
+      "America/New_York",
+      "America/Nome",
+      "America/North_Dakota/Beulah",
+      "America/North_Dakota/Center",
+      "America/North_Dakota/New_Salem",
+      "America/Phoenix",
+      "America/Sitka",
+      "America/Yakutat",
+      "Pacific/Honolulu"
+    ]
+  },
+  {
+    "region_code": "UY",
+    "region_cn": "乌拉圭",
+    "region_en": "español",
+    "flag_emoji": "🇺🇾",
+    "svg_file": "flags/UY.svg",
+    "timezones": [
+      "America/Montevideo"
+    ]
+  },
+  {
+    "region_code": "UZ",
+    "region_cn": "乌兹别克斯坦",
+    "region_en": "o‘zbek",
+    "flag_emoji": "🇺🇿",
+    "svg_file": "flags/UZ.svg",
+    "timezones": [
+      "Asia/Samarkand",
+      "Asia/Tashkent"
+    ]
+  },
+  {
+    "region_code": "VA",
+    "region_cn": "梵蒂冈",
+    "region_en": "italiano",
+    "flag_emoji": "🇻🇦",
+    "svg_file": "flags/VA.svg",
+    "timezones": [
+      "Europe/Vatican"
+    ]
+  },
+  {
+    "region_code": "VC",
+    "region_cn": "圣文森特和格林纳丁斯",
+    "region_en": "English",
+    "flag_emoji": "🇻🇨",
+    "svg_file": "flags/VC.svg",
+    "timezones": [
+      "America/St_Vincent"
+    ]
+  },
+  {
+    "region_code": "VE",
+    "region_cn": "委内瑞拉",
+    "region_en": "español",
+    "flag_emoji": "🇻🇪",
+    "svg_file": "flags/VE.svg",
+    "timezones": [
+      "America/Caracas"
+    ]
+  },
+  {
+    "region_code": "VG",
+    "region_cn": "英属维尔京群岛",
+    "region_en": "English",
+    "flag_emoji": "🇻🇬",
+    "svg_file": "flags/VG.svg",
+    "timezones": [
+      "America/Tortola"
+    ]
+  },
+  {
+    "region_code": "VI",
+    "region_cn": "美属维尔京群岛",
+    "region_en": "English",
+    "flag_emoji": "🇻🇮",
+    "svg_file": "flags/VI.svg",
+    "timezones": [
+      "America/St_Thomas"
+    ]
+  },
+  {
+    "region_code": "VN",
+    "region_cn": "越南",
+    "region_en": "Tiếng Việt",
+    "flag_emoji": "🇻🇳",
+    "svg_file": "flags/VN.svg",
+    "timezones": [
+      "Asia/Ho_Chi_Minh"
+    ]
+  },
+  {
+    "region_code": "VU",
+    "region_cn": "瓦努阿图",
+    "region_en": "bi",
+    "flag_emoji": "🇻🇺",
+    "svg_file": "flags/VU.svg",
+    "timezones": [
+      "Pacific/Efate"
+    ]
+  },
+  {
+    "region_code": "WF",
+    "region_cn": "瓦利斯和富图纳",
+    "region_en": "français",
+    "flag_emoji": "🇼🇫",
+    "svg_file": "flags/WF.svg",
+    "timezones": [
+      "Pacific/Wallis"
+    ]
+  },
+  {
+    "region_code": "WS",
+    "region_cn": "萨摩亚",
+    "region_en": "sm",
+    "flag_emoji": "🇼🇸",
+    "svg_file": "flags/WS.svg",
+    "timezones": [
+      "Pacific/Apia"
+    ]
+  },
+  {
+    "region_code": "YE",
+    "region_cn": "也门",
+    "region_en": "العربية",
+    "flag_emoji": "🇾🇪",
+    "svg_file": "flags/YE.svg",
+    "timezones": [
+      "Asia/Aden"
+    ]
+  },
+  {
+    "region_code": "YT",
+    "region_cn": "马约特",
+    "region_en": "français",
+    "flag_emoji": "🇾🇹",
+    "svg_file": "flags/YT.svg",
+    "timezones": [
+      "Indian/Mayotte"
+    ]
+  },
+  {
+    "region_code": "ZA",
+    "region_cn": "南非",
+    "region_en": "English",
+    "flag_emoji": "🇿🇦",
+    "svg_file": "flags/ZA.svg",
+    "timezones": [
+      "Africa/Johannesburg"
+    ]
+  },
+  {
+    "region_code": "ZM",
+    "region_cn": "赞比亚",
+    "region_en": "English",
+    "flag_emoji": "🇿🇲",
+    "svg_file": "flags/ZM.svg",
+    "timezones": [
+      "Africa/Lusaka"
+    ]
+  },
+  {
+    "region_code": "ZW",
+    "region_cn": "津巴布韦",
+    "region_en": "chiShona",
+    "flag_emoji": "🇿🇼",
+    "svg_file": "flags/ZW.svg",
+    "timezones": [
+      "Africa/Harare"
+    ]
+  }
+]

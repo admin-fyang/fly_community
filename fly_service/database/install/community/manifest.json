@@ -1,0 +1,88 @@
+{
+  "baseline_id": "flyim-community-fresh-20260927",
+  "scope": "fresh-empty-database-only",
+  "supported_database": "MySQL 8.0.16+ / 8.x",
+  "table_count": 26,
+  "schema_sha256": "0c7f136fc73f2ec0f5dc80075e962a2c9268661bdf67947925cbc447b381148d",
+  "seeds_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+  "tables": [
+    {
+      "table": "app_account_deletion_request"
+    },
+    {
+      "table": "app_auth_audit"
+    },
+    {
+      "table": "app_config"
+    },
+    {
+      "table": "app_content_page"
+    },
+    {
+      "table": "app_conversation"
+    },
+    {
+      "table": "app_conversation_member"
+    },
+    {
+      "table": "app_device"
+    },
+    {
+      "table": "app_file"
+    },
+    {
+      "table": "app_file_multipart_upload"
+    },
+    {
+      "table": "app_friend"
+    },
+    {
+      "table": "app_message"
+    },
+    {
+      "table": "app_message_attachment"
+    },
+    {
+      "table": "app_message_event"
+    },
+    {
+      "table": "app_message_event_outbox"
+    },
+    {
+      "table": "app_message_event_retention_state"
+    },
+    {
+      "table": "app_message_user_state"
+    },
+    {
+      "table": "app_realtime_connection"
+    },
+    {
+      "table": "app_session_control_outbox"
+    },
+    {
+      "table": "app_system_notification"
+    },
+    {
+      "table": "app_system_notification_recipient"
+    },
+    {
+      "table": "app_user"
+    },
+    {
+      "table": "app_user_contact"
+    },
+    {
+      "table": "app_user_device"
+    },
+    {
+      "table": "app_user_session"
+    },
+    {
+      "table": "app_user_session_token"
+    },
+    {
+      "table": "app_user_sync_state"
+    }
+  ]
+}

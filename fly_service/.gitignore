@@ -1,0 +1,9 @@
+/.env
+/.phpunit.cache/
+/vendor/
+/runtime/*
+!/runtime/.gitignore
+!/runtime/logs/
+!/runtime/logs/.gitignore
+!/runtime/views/
+!/runtime/views/.gitignore

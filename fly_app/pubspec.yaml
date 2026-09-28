@@ -1,0 +1,152 @@
+name: flychat
+description: "安全可靠的即时通讯"
+publish_to: 'none'
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+#version: 0.7.1-beta+2026091115
+version: 0.6.0-beta+2026082714
+
+# 与 flutter_chat_ui 示例项目的 Dart 约束保持一致。
+environment:
+  sdk: ">=3.10.1 <4.0.0"
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+
+  # 状态管理 / 路由 / 依赖注入
+  get: ^4.6.6
+
+  # 第二阶段 API 基础设施：统一 HTTP、会话持久化和设备安装标识。
+  dio: ^5.9.2
+  # 只在 offline -> online 边沿触发可靠增量对账，不用于高频轮询。
+  connectivity_plus: ^7.3.1
+  image_gallery_saver_plus: ^4.0.1
+  image_picker: ^1.1.2
+  mime: ^2.0.0
+  permission_handler: ^12.0.1
+  package_info_plus: ^10.2.1
+  # 复用已锁定的间接依赖版本，用于设备管理的机型名称。
+  device_info_plus: 13.2.0
+  crypto: ^3.0.7
+  flutter_svg: ^2.3.0
+  shared_preferences: ^2.5.3
+  # Web 视频缓存使用独立 IndexedDB 分块存储，不把大视频写入消息 SQLite。
+  idb_shim: ^2.9.2
+  synchronized: ^3.4.0
+  # 使用后端下发的 IANA 时区名称渲染消息时间，避免依赖终端时区。
+  timezone: ^0.10.0
+  # IM 本地消息、事件游标与失败重试队列。
+  # 保留已经过 IM 本地数据库验证的版本，SDK 升级不连带修改数据库实现。
+  sqflite: ^2.4.2
+  # 平台数据库实现共同依赖的 SQL 接口层。
+  sqflite_common: 2.5.5
+  # Web 端使用 SQLite WASM，并将数据库持久化到浏览器 IndexedDB。
+  # 保持现有 Web SQLite WASM 运行链路不变。
+  sqflite_common_ffi_web: 1.0.0
+  uuid: ^4.5.1
+  # Centrifugo 官方 Dart SDK：负责协议握手、Ping/Pong、分帧、重连和服务端订阅。
+  centrifuge: 0.20.0
+  emoji_picker_flutter: ^4.4.0
+  file_picker: ^12.2.0
+  flutter_cache_manager: ^3.4.1
+  # 路径存储保持现有实现版本，避免引入与气泡无关的平台迁移。
+  path_provider: 2.1.5
+  # 全平台图片预览：负责缩放、分页手势协调与下拉退出。
+  extended_image: ^10.1.0
+  open_filex: ^4.7.0
+  # 与 examples/flyer_chat/lib/local.dart 使用相同的聊天内核和官方气泡。
+  flutter_chat_ui: 2.11.1
+  flutter_chat_core: 2.9.0
+  flyer_chat_text_message: 2.6.0
+  flyer_chat_image_message: 2.3.0
+  flyer_chat_file_message: 2.4.0
+  flyer_chat_system_message: 2.2.0
+  flutter_map: ^8.3.1
+  latlong2: ^0.10.1
+  url_launcher: ^6.3.2
+  flutter_local_notifications: ^20.1.0
+  webview_flutter: ^4.14.1
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/audio/
+    - assets/icons/
+    - assets/icons/menus/
+    - assets/icons/settings/
+    - assets/icons/chat/
+    - assets/image/
+    - assets/image/avatar/
+
+  # 固定应用内中英文的字形与排版度量，避免不同 Android/iOS 系统字体
+  # fallback 导致字面大小、字宽和基线不一致。
+  fonts:
+    - family: HarmonyOSSansSC
+      fonts:
+        - asset: assets/fonts/harmonyos_sans_sc/HarmonyOS_Sans_SC_Regular.ttf
+          weight: 400
+        - asset: assets/fonts/harmonyos_sans_sc/HarmonyOS_Sans_SC_Medium.ttf
+          weight: 500
+        - asset: assets/fonts/harmonyos_sans_sc/HarmonyOS_Sans_SC_Bold.ttf
+          weight: 700
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/to/resolution-aware-images
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/to/asset-from-package
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/to/font-from-package

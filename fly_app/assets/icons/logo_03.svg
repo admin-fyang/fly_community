@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+ width="800" height="360" viewBox="42 8 178 82" fill="none">
+<defs>
+  <linearGradient id="g2" x1="48" y1="22" x2="174" y2="80" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#18B6E8"/>
+    <stop offset="0.48" stop-color="#0788DF"/>
+    <stop offset="1" stop-color="#075FD5"/>
+  </linearGradient>
+</defs>
+
+<!-- speed dots -->
+<circle cx="53" cy="47" r="3.4" fill="url(#g2)"/>
+<circle cx="62.5" cy="37" r="2.7" fill="url(#g2)"/>
+
+<!-- speed lines: keep only two horizontal lines -->
+<path d="M65 46 H88" stroke="url(#g2)" stroke-width="6.2" stroke-linecap="round"/>
+<path d="M62 56 H84" stroke="url(#g2)" stroke-width="6.2" stroke-linecap="round"/>
+
+<!-- f : longer bottom stem -->
+<path d="M81 74
+ C84 63 87 53 90 44
+ C93 35 96 27 99 21
+ C102 16 107 15 113 15
+ H125"
+ stroke="url(#g2)" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M77 38 H111"
+ stroke="url(#g2)" stroke-width="7.3" stroke-linecap="round"/>
+
+<!-- l : shifted right to keep space from f -->
+<path d="M140 15 L123 66"
+ stroke="url(#g2)" stroke-width="8" stroke-linecap="round"/>
+
+<!-- y -->
+<path d="M154 33
+ C149 47 145 58 148 64
+ C151 70 159 71 165 66
+ C172 60 175 50 178 40
+ L181 31"
+ stroke="url(#g2)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M178 40
+ C175 53 171 65 165 72
+ C160 78 154 81 146 81"
+ stroke="url(#g2)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,259 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="320" height="436"
+     viewBox="0 0 1075 1464"
+     fill="none"
+     role="img"
+     aria-label="聊天页无消息空状态">
+
+  <defs>
+<!-- Main bubble -->
+    <linearGradient id="bubbleBase" x1="300" y1="740" x2="760" y2="1190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A8D4FF"/>
+      <stop offset="0.32" stop-color="#8CBFFF"/>
+      <stop offset="0.66" stop-color="#849AF5"/>
+      <stop offset="1" stop-color="#9A82EE"/>
+    </linearGradient>
+
+    <radialGradient id="bubbleLight" cx="0.27" cy="0.18" r="0.88">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.58"/>
+      <stop offset="0.32" stop-color="#DCEBFF" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="bubbleSheen" x1="333" y1="741" x2="699" y2="917" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F1F8FF" stop-opacity="0.62"/>
+      <stop offset="0.55" stop-color="#D3E8FF" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#D6C7FF" stop-opacity="0.05"/>
+    </linearGradient>
+
+    <linearGradient id="bubbleBottomTint" x1="371" y1="1000" x2="682" y2="1190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5F94F9" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#8F6FEA" stop-opacity="0.24"/>
+    </linearGradient>
+
+    <!-- Typing dots -->
+    <radialGradient id="dotWhite" cx="0.35" cy="0.28" r="0.88">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.68" stop-color="#F9FAFF"/>
+      <stop offset="1" stop-color="#E9EEFA"/>
+    </radialGradient>
+
+    <!-- Plane -->
+    <linearGradient id="planeTop" x1="525" y1="324" x2="948" y2="270" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#D8ECFF"/>
+      <stop offset="0.50" stop-color="#A5C8FF"/>
+      <stop offset="1" stop-color="#648DFA"/>
+    </linearGradient>
+
+    <linearGradient id="planeCore" x1="640" y1="402" x2="941" y2="277" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5F9BFF"/>
+      <stop offset="0.52" stop-color="#397FF2"/>
+      <stop offset="1" stop-color="#256BE8"/>
+    </linearGradient>
+
+    <linearGradient id="planeWing" x1="699" y1="456" x2="946" y2="279" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#CDD0FF"/>
+      <stop offset="0.56" stop-color="#A4A7FC"/>
+      <stop offset="1" stop-color="#7F86F2"/>
+    </linearGradient>
+
+    <linearGradient id="planeFold" x1="648" y1="443" x2="723" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#296FE9"/>
+      <stop offset="1" stop-color="#6B8FF3"/>
+    </linearGradient>
+
+    <!-- Accent gradients -->
+    <linearGradient id="trailGrad" x1="134" y1="475" x2="627" y2="521" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5E9BFF"/>
+      <stop offset="1" stop-color="#5792F5"/>
+    </linearGradient>
+
+    <linearGradient id="starBlue" x1="326" y1="330" x2="404" y2="391" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9ED1FF"/>
+      <stop offset="1" stop-color="#66A6EF"/>
+    </linearGradient>
+
+    <linearGradient id="starBlue2" x1="793" y1="696" x2="861" y2="759" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9FCBFF"/>
+      <stop offset="1" stop-color="#6B9CEA"/>
+    </linearGradient>
+
+    <linearGradient id="purpleDot" x1="865" y1="814" x2="909" y2="859" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#C3A0FF"/>
+      <stop offset="1" stop-color="#9770F0"/>
+    </linearGradient>
+
+    <!-- Shadows -->
+    <filter id="bubbleShadow" x="-22%" y="-22%" width="150%" height="165%">
+      <feDropShadow dx="0" dy="24" stdDeviation="23" flood-color="#6475E7" flood-opacity="0.14"/>
+    </filter>
+
+    <filter id="softBlur" x="-60%" y="-100%" width="220%" height="300%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+
+    <filter id="planeSoft" x="-20%" y="-20%" width="145%" height="150%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#5C6EE3" flood-opacity="0.08"/>
+    </filter>
+
+    <filter id="softDotShadow" x="-80%" y="-80%" width="260%" height="260%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#6477E8" flood-opacity="0.12"/>
+    </filter>
+
+    <!-- Main bubble clip for internal overlays -->
+    <clipPath id="bubbleClip">
+      <path d="M321 1097
+               C283 1054 266 1004 266 950
+               C266 817 375 714 514 714
+               C653 714 765 817 765 951
+               C765 1088 651 1193 514 1193
+               C476 1193 442 1187 411 1177
+               C374 1204 337 1221 302 1221
+               C278 1221 269 1212 280 1199
+               C299 1178 315 1146 321 1097Z"/>
+    </clipPath>
+  </defs>
+<!-- =========================
+       Paper airplane
+       ========================= -->
+  <g filter="url(#planeSoft)">
+    <!-- top plane facet -->
+    <path d="M523 322 L946 273 L646 397 Z"
+          fill="url(#planeTop)"/>
+
+    <!-- central blue facet -->
+    <path d="M646 397 L946 273 L697 444 L646 515 Z"
+          fill="url(#planeCore)"/>
+
+    <!-- lower fold -->
+    <path d="M646 515 L697 444 L727 483 Z"
+          fill="url(#planeFold)"/>
+
+    <!-- right large wing -->
+    <path d="M697 444 L946 273 L794 565 Z"
+          fill="url(#planeWing)"/>
+
+    <!-- subtle highlight edge -->
+    <path d="M527 322 L944 274"
+          stroke="#EEF6FF" stroke-width="2" stroke-linecap="round" opacity=".72"/>
+    <path d="M697 444 L944 274"
+          stroke="#DCE7FF" stroke-width="1.6" stroke-linecap="round" opacity=".52"/>
+  </g>
+
+  <!-- =========================
+       Natural dashed flight trail
+       ========================= -->
+  <path d="M623 523
+           C538 580 452 626 337 643
+           C248 656 164 642 141 596
+           C113 539 155 476 217 477
+           C281 478 321 537 308 603
+           C295 671 244 724 194 778
+           C147 829 120 876 136 937
+           C148 987 184 1024 238 1037"
+        stroke="url(#trailGrad)"
+        stroke-width="5"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-dasharray="14 18"
+        opacity=".98"/>
+
+  <!-- =========================
+       Main glossy chat bubble
+       ========================= -->
+  <g filter="url(#bubbleShadow)">
+    <!-- one continuous smooth body+tail path -->
+    <path d="M321 1097
+             C283 1054 266 1004 266 950
+             C266 817 375 714 514 714
+             C653 714 765 817 765 951
+             C765 1088 651 1193 514 1193
+             C476 1193 442 1187 411 1177
+             C374 1204 337 1221 302 1221
+             C278 1221 269 1212 280 1199
+             C299 1178 315 1146 321 1097Z"
+          fill="url(#bubbleBase)"
+          stroke="#6C83EE"
+          stroke-opacity=".24"
+          stroke-width="2.2"/>
+
+    <!-- internal glossy light -->
+    <g clip-path="url(#bubbleClip)">
+      <ellipse cx="473" cy="816" rx="253" ry="170" fill="url(#bubbleLight)"/>
+      <path d="M300 787
+               C344 735 421 710 514 711
+               C610 712 688 742 733 794
+               C655 758 570 750 497 765
+               C408 784 348 815 303 866Z"
+            fill="url(#bubbleSheen)"/>
+
+      <path d="M317 1062
+               C370 1126 445 1164 526 1165
+               C626 1166 704 1121 747 1044
+               C719 1139 635 1196 518 1196
+               C424 1196 346 1167 302 1115Z"
+            fill="url(#bubbleBottomTint)"/>
+
+      <!-- soft upper rim -->
+      <path d="M298 775
+               C351 724 430 701 516 702
+               C603 702 681 730 728 780"
+            stroke="#F3F9FF"
+            stroke-opacity=".52"
+            stroke-width="8"
+            stroke-linecap="round"
+            fill="none"/>
+    </g>
+
+    <!-- typing dots -->
+    <circle cx="416" cy="953" r="27" fill="url(#dotWhite)" stroke="#FFFFFF" stroke-opacity=".82"/>
+    <circle cx="515" cy="953" r="27" fill="url(#dotWhite)" stroke="#FFFFFF" stroke-opacity=".82"/>
+    <circle cx="614" cy="953" r="27" fill="url(#dotWhite)" stroke="#FFFFFF" stroke-opacity=".82"/>
+  </g>
+
+  <!-- soft floor shadow -->
+  <ellipse cx="519" cy="1234" rx="378" ry="36" fill="#7685E8" opacity=".10" filter="url(#softBlur)"/>
+  <ellipse cx="519" cy="1233" rx="374" ry="26" fill="#C7CFF6" opacity=".28"/>
+
+  <!-- =========================
+       Decorative stars / dots
+       ========================= -->
+  <!-- upper-left blue star -->
+  <path d="M366 327
+           C371 349 377 355 400 360
+           C377 365 371 372 366 394
+           C361 372 355 365 332 360
+           C355 355 361 349 366 327Z"
+        fill="url(#starBlue)"/>
+
+  <!-- small cyan dot -->
+  <circle cx="437" cy="480" r="9.5" fill="#8EC6F6" stroke="#73B4ED" stroke-width="1"/>
+
+  <!-- purple star near plane -->
+  <path d="M899 558
+           C903 570 908 575 921 579
+           C908 584 903 589 899 602
+           C895 589 890 584 877 579
+           C890 575 895 570 899 558Z"
+        fill="#A584F3"/>
+
+  <!-- blue star right-middle -->
+  <path d="M821 683
+           C826 705 832 711 855 716
+           C832 721 826 727 821 749
+           C816 727 810 721 787 716
+           C810 711 816 705 821 683Z"
+        fill="url(#starBlue2)"/>
+
+  <!-- purple dot -->
+  <circle cx="887" cy="834" r="12" fill="url(#purpleDot)" filter="url(#softDotShadow)"/>
+
+  <!-- small diamond -->
+  <rect x="836" y="1083" width="17" height="17" rx="1.5"
+        transform="rotate(45 836 1083)"
+        fill="#91BAF7"/>
+
+  <!-- tiny blue bottom-left dot -->
+  <circle cx="192" cy="1115" r="6" fill="#89B5F2"/>
+
+</svg>
